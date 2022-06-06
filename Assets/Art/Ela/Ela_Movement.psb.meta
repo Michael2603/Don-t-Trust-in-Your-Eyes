@@ -1,0 +1,4847 @@
+fileFormatVersion: 2
+guid: a0ae869685328324f953b728c808ec45
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: Ela_Movement_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 370
+      height: 149
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Ela real_upblink_exit5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 174
+      width: 23
+      height: 54
+    spriteID: 4e1169c7198ae8445af7a45d0fe434e7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 110, y: 104}
+  - name: Ela real_upblink_exit4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 236
+      width: 23
+      height: 54
+    spriteID: f2af7c42bf32da647be9bad345229fb2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 110, y: 166}
+  - name: Ela real_upblink_exit3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 298
+      width: 23
+      height: 54
+    spriteID: 1eaa64d6c3e52d04fa40c9f707d88cda
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 110, y: 228}
+  - name: Ela real_upblink_exit2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 360
+      width: 23
+      height: 54
+    spriteID: e8eab8b175f0af04992d8959a90d625d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 110, y: 290}
+  - name: Ela real_upblink_exit1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 422
+      width: 23
+      height: 54
+    spriteID: 03a20975bd6d7644a88a858f407c3427
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 110, y: 352}
+  - name: Ela real_upblink_open12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 158
+      width: 24
+      height: 54
+    spriteID: dc28b2ec265591a449b6c3e9399ede15
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 43, y: 152}
+  - name: Ela real_upblink_open11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 220
+      width: 24
+      height: 54
+    spriteID: a78676e61d140fa439e3e4e54ccc110c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 43, y: 214}
+  - name: Ela real_upblink_open10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 282
+      width: 24
+      height: 54
+    spriteID: 137f2a7fb8cbab348b55c1096052186e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 43, y: 276}
+  - name: Ela real_upblink_open9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 344
+      width: 24
+      height: 54
+    spriteID: e9ba2e5977a068648a83f1ce69960aff
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 43, y: 338}
+  - name: Ela real_upblink_open8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 406
+      width: 24
+      height: 54
+    spriteID: 51e7de7a21c622745802ebf716d438c7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 43, y: 400}
+  - name: Ela real_upblink_open7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 112
+      width: 24
+      height: 54
+    spriteID: 1d29985c78bde284bbb751b4dbc97615
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 82, y: 106}
+  - name: Ela real_upblink_open6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 174
+      width: 24
+      height: 54
+    spriteID: 78ef669a3c7c4664aa759e8e32f6ef79
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 82, y: 168}
+  - name: Ela real_upblink_open5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 236
+      width: 24
+      height: 54
+    spriteID: ad7434c0ae74d714ba177efc342a6c54
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 82, y: 230}
+  - name: Ela real_upblink_open4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 298
+      width: 24
+      height: 54
+    spriteID: a169c76bc0d3f6b458233cb38aa2a81c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 82, y: 292}
+  - name: Ela real_upblink_open3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 360
+      width: 24
+      height: 54
+    spriteID: e6363c6f248439a4a814f1bfa4bbdb5b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 82, y: 354}
+  - name: Ela real_upblink_open2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 422
+      width: 24
+      height: 54
+    spriteID: 8cf453752f56d914e95423ed373e9836
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 82, y: 416}
+  - name: Ela real_upblink_open1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 112
+      width: 24
+      height: 54
+    spriteID: 6929f798c9de2a7458725fd307714b64
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 114, y: 106}
+  - name: Ela real_sideblink_exit7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 54
+      height: 30
+    spriteID: ad42a2bf680c4f34099c379a6289a261
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -148, y: -78}
+  - name: Ela real_sideblink_exit6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 4
+      width: 54
+      height: 30
+    spriteID: 2eb8a8e02e32d4e4983b7993896f5ff8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -86, y: -78}
+  - name: Ela real_sideblink_exit5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 4
+      width: 54
+      height: 30
+    spriteID: 318beb1317914ab4291ac47dfc21c349
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -24, y: -78}
+  - name: Ela real_sideblink_exit4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 4
+      width: 54
+      height: 30
+    spriteID: 4495717cac2260841a25b0b7c97eb5b2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 38, y: -78}
+  - name: Ela real_sideblink_exit3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 4
+      width: 54
+      height: 30
+    spriteID: 1e98b61529420a04284261ede21b1845
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 100, y: -78}
+  - name: Ela real_sideblink_exit2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 314
+      y: 4
+      width: 54
+      height: 30
+    spriteID: 87d83e7fc31db5e40803ece0a0e1e5d2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 162, y: -78}
+  - name: Ela real_sideblink_exit1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 376
+      y: 4
+      width: 54
+      height: 30
+    spriteID: 4a953a8e6dee028428386bcc04ae41ce
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 224, y: -78}
+  - name: Ela real_sideblink_open13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 4
+      width: 56
+      height: 27
+    spriteID: 59408b2e6cd902d438addb1bde954797
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 367, y: -79}
+  - name: Ela real_sideblink_open12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 42
+      width: 56
+      height: 27
+    spriteID: f201f16f013f40048859306c254f9085
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 11, y: -41}
+  - name: Ela real_sideblink_open11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 42
+      width: 56
+      height: 27
+    spriteID: ca273160368aa914b963706dc42fcd13
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 75, y: -41}
+  - name: Ela real_sideblink_open10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 42
+      width: 56
+      height: 27
+    spriteID: 0adcbc4dba5c4fe4a8689de9fd8ae6af
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 139, y: -41}
+  - name: Ela real_sideblink_open9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 42
+      width: 56
+      height: 27
+    spriteID: 21a00f789adb7c445891e559884f3a8c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 203, y: -41}
+  - name: Ela real_sideblink_open8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 338
+      y: 42
+      width: 56
+      height: 27
+    spriteID: b1aef076d741ed84aa1d5c8d8c7ae73e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 267, y: -41}
+  - name: Ela real_sideblink_open7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 42
+      width: 56
+      height: 27
+    spriteID: 26dd2bc3e9f26674d9560ecdcb4b8f13
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 331, y: -41}
+  - name: Ela real_sideblink_open6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 77
+      width: 56
+      height: 27
+    spriteID: 5d36f5bf78084c2449b7ab465f40ae87
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 11, y: -6}
+  - name: Ela real_sideblink_open5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 77
+      width: 56
+      height: 27
+    spriteID: 35f6070c5743057478c182067c9eef98
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 75, y: -6}
+  - name: Ela real_sideblink_open4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 77
+      width: 56
+      height: 27
+    spriteID: 40066147ebe3e4c4f81d184453b0ef99
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 139, y: -6}
+  - name: Ela real_sideblink_open3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 77
+      width: 56
+      height: 27
+    spriteID: 68e6390bf74db314ba0ad50dbc038bdb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 203, y: -6}
+  - name: Ela real_sideblink_open2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 338
+      y: 77
+      width: 56
+      height: 27
+    spriteID: 1998deb1526e07a4eab12ad0b6d168d9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 267, y: -6}
+  - name: Ela real_sideblink_open1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 77
+      width: 56
+      height: 27
+    spriteID: 716333dd67e7b6b41a705d61f2412ace
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 331, y: -6}
+  - name: Ela real_dying10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 42
+      width: 31
+      height: 50
+    spriteID: 658af38ce3e54ad4f8c828d11f6a997e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: -18}
+  - name: Ela real_dying9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 100
+      width: 31
+      height: 50
+    spriteID: 90aeb0a43692ccd4eaafbc6feff0d384
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: 40}
+  - name: Ela real_dying8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 158
+      width: 31
+      height: 50
+    spriteID: 762d132adb86cba418de902bcd7f4ba9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: 98}
+  - name: Ela real_dying7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 216
+      width: 31
+      height: 50
+    spriteID: 63c6ddd8b7bf26241bc28298907c294e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: 156}
+  - name: Ela real_dying6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 274
+      width: 31
+      height: 50
+    spriteID: e3efa41c581cabc48956f93fbaff5175
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: 214}
+  - name: Ela real_dying5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 332
+      width: 31
+      height: 50
+    spriteID: c373c403fdce00640870a525fb60f7ab
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: 272}
+  - name: Ela real_dying4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 390
+      width: 31
+      height: 50
+    spriteID: 821e73f46c4f97c4c8caf1887f332754
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: 330}
+  - name: Ela real_dying3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 448
+      width: 31
+      height: 50
+    spriteID: 54256cfbe6c37444386c7ca95fd0a283
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: 388}
+  - name: Ela real_dying2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 42
+      width: 31
+      height: 50
+    spriteID: 723a45d5f648ac1469b0f5d3c6d3a0cc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -194, y: -18}
+  - name: Ela real_dying1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 100
+      width: 31
+      height: 50
+    spriteID: 7f525af96f458574f806b864c9fd3409
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -194, y: 40}
+  - name: Ela real_windfeel8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 112
+      width: 24
+      height: 29
+    spriteID: fdbd70a28386fca4694bb58e4bbaf85d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 30}
+  - name: Ela real_windfeel7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 149
+      width: 24
+      height: 29
+    spriteID: 1548acb3bc1aa2b49b84fcfff47b6fd6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 67}
+  - name: Ela real_windfeel6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 186
+      width: 24
+      height: 29
+    spriteID: 75bd2c9a099a24f47bebc15dde593418
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 104}
+  - name: Ela real_windfeel5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 223
+      width: 24
+      height: 29
+    spriteID: 5205ebcbabfdf6a4da2f12f252f3e357
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 141}
+  - name: Ela real_windfeel4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 260
+      width: 24
+      height: 29
+    spriteID: ff193a5631b6ab049819aab1ca7d7f4c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 178}
+  - name: Ela real_windfeel3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 297
+      width: 24
+      height: 29
+    spriteID: ffc933344f7883142bc83cf627e13314
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 215}
+  - name: Ela real_windfeel2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 334
+      width: 24
+      height: 29
+    spriteID: af047effe05a3b34a8187a5b48f9e908
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 252}
+  - name: Ela real_windfeel1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 371
+      width: 24
+      height: 29
+    spriteID: 72e2a031eb3fb78418548d022fa67b4b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 289}
+  - name: Ela real_Stopped8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 444
+      width: 23
+      height: 28
+    spriteID: 177ae44ef8b3e84479dd6ebd90da78b7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -94, y: 362}
+  - name: Ela real_Stopped7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 480
+      width: 23
+      height: 28
+    spriteID: aacdf26db49775f4b85ffa334babc30c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -94, y: 398}
+  - name: Ela real_Stopped6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 112
+      width: 23
+      height: 28
+    spriteID: b2f4825a268f7c249b5092f50ab7ca4f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 30}
+  - name: Ela real_Stopped5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 148
+      width: 23
+      height: 28
+    spriteID: 29b514ca1b243524880e41e80a759a95
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 66}
+  - name: Ela real_Stopped4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 184
+      width: 23
+      height: 28
+    spriteID: dbb16df8d2be9f942b7b54e048a59c0c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 102}
+  - name: Ela real_Stopped3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 220
+      width: 23
+      height: 28
+    spriteID: f7a7cc35cef33c04d92dfd3c86e63f0b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 138}
+  - name: Ela real_Stopped2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 256
+      width: 23
+      height: 28
+    spriteID: c2ba4ff0fa815bb488c412aaf186d545
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 174}
+  - name: Ela real_Stopped1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 292
+      width: 23
+      height: 28
+    spriteID: 826a3ac758190824d9d41f7b1eff0518
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 210}
+  - name: Ela real_impact 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 408
+      width: 24
+      height: 28
+    spriteID: ebc52c331aa60bb4886b0da608683b3b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -129, y: 392}
+  - name: Ela real_impact 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 112
+      width: 27
+      height: 28
+    spriteID: 604e59aad0411a54ebcb6be62f611fe3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -161, y: 96}
+  - name: Ela real_falling 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 468
+      width: 24
+      height: 35
+    spriteID: a98dd6bc0406c9745a027dd1288ac3ae
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -267, y: 420}
+  - name: Ela real_jumping2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 328
+      width: 22
+      height: 29
+    spriteID: f8d147fc215926f4aae9def1f87db3ff
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -97, y: 245}
+  - name: Ela real_jumping1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 365
+      width: 22
+      height: 29
+    spriteID: 5e05763ae4cc7b348a40ba6415cc5d01
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -97, y: 282}
+  - name: Ela real_Running10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 148
+      width: 26
+      height: 28
+    spriteID: b7a4c2c6239d53f488fedc20e8510f9e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 66}
+  - name: Ela real_Running9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 184
+      width: 26
+      height: 28
+    spriteID: 180a7e81abc7ad443813148ed2b7b9e2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 102}
+  - name: Ela real_Running8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 220
+      width: 26
+      height: 28
+    spriteID: 84bd370e281e55446ac7b8e4ec15c39b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 138}
+  - name: Ela real_Running7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 256
+      width: 26
+      height: 28
+    spriteID: de76ca75163dda04886ad3cc3e0b61a4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 174}
+  - name: Ela real_Running6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 292
+      width: 26
+      height: 28
+    spriteID: 1f8870dee7e289c47bec947d3907eb4d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 210}
+  - name: Ela real_Running5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 328
+      width: 26
+      height: 28
+    spriteID: ff0418d3483803649b855b88ce21c0f1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 246}
+  - name: Ela real_Running4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 364
+      width: 26
+      height: 28
+    spriteID: 331b279543aa3b74db3134637eeee11a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 282}
+  - name: Ela real_Running3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 400
+      width: 26
+      height: 28
+    spriteID: 60bdcbb3122661a4f8571dc4ea8906f4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 318}
+  - name: Ela real_Running2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 436
+      width: 26
+      height: 28
+    spriteID: a5a5a615daa0a044f88bcc012723e23a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 354}
+  - name: Ela real_Running1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 472
+      width: 26
+      height: 28
+    spriteID: 6423edceb8a2985499553a92310c5d91
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 390}
+  rigSpriteImportData:
+  - name: Ela real_upblink_exit5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 174
+      width: 23
+      height: 54
+    spriteID: 27f2e2c2c1f9ea14399d4da9a960a235
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 110, y: 104}
+  - name: Ela real_upblink_exit4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 236
+      width: 23
+      height: 54
+    spriteID: 24618a9c8aec4984ba8588984df3616b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 110, y: 166}
+  - name: Ela real_upblink_exit3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 298
+      width: 23
+      height: 54
+    spriteID: 9595dc3f2856c2e4f8ecba48368592d0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 110, y: 228}
+  - name: Ela real_upblink_exit2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 360
+      width: 23
+      height: 54
+    spriteID: 1b18314ee75262f4bbc563d03d1ae4e6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 110, y: 290}
+  - name: Ela real_upblink_exit1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 422
+      width: 23
+      height: 54
+    spriteID: 21fff6d7dd8a74c48ab531d76eb0a196
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 110, y: 352}
+  - name: Ela real_upblink_open12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 158
+      width: 24
+      height: 54
+    spriteID: 987e492a2b22bae4b9d16138aa3c7582
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 43, y: 152}
+  - name: Ela real_upblink_open11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 220
+      width: 24
+      height: 54
+    spriteID: 84fb6f03c1e545f4bb9646bd6b59de01
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 43, y: 214}
+  - name: Ela real_upblink_open10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 282
+      width: 24
+      height: 54
+    spriteID: 575c4e0b6ef264e42a0bfb6cf85aed2a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 43, y: 276}
+  - name: Ela real_upblink_open9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 344
+      width: 24
+      height: 54
+    spriteID: 2b5b1b92899956c4a9fe19dc82a429ed
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 43, y: 338}
+  - name: Ela real_upblink_open8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 406
+      width: 24
+      height: 54
+    spriteID: f0925a70f8579864b83c903fe2d5efe3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 43, y: 400}
+  - name: Ela real_upblink_open7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 112
+      width: 24
+      height: 54
+    spriteID: 1ac190c76e95f934b857b4aa11b18aa2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 82, y: 106}
+  - name: Ela real_upblink_open6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 174
+      width: 24
+      height: 54
+    spriteID: 30f5f441ddbcdc54d83f609f0f781a86
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 82, y: 168}
+  - name: Ela real_upblink_open5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 236
+      width: 24
+      height: 54
+    spriteID: e7f6e8023d8d7e944bf4c2c72a95f2a7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 82, y: 230}
+  - name: Ela real_upblink_open4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 298
+      width: 24
+      height: 54
+    spriteID: 6fa38c10ded96434f9dece3031cb0911
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 82, y: 292}
+  - name: Ela real_upblink_open3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 360
+      width: 24
+      height: 54
+    spriteID: a6998e494e3b31f4a8015989f463e941
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 82, y: 354}
+  - name: Ela real_upblink_open2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 422
+      width: 24
+      height: 54
+    spriteID: a16ca4e5c7ea0274eadf7bc0efa0d7b7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 82, y: 416}
+  - name: Ela real_upblink_open1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 112
+      width: 24
+      height: 54
+    spriteID: 1e4e87e875f56974587151190e6f3e7f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 114, y: 106}
+  - name: Ela real_sideblink_exit7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 54
+      height: 30
+    spriteID: 43794bcd2818d2546981bc6228544487
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -148, y: -78}
+  - name: Ela real_sideblink_exit6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 4
+      width: 54
+      height: 30
+    spriteID: 0b7a3d75905c59241b6048f8b7276621
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -86, y: -78}
+  - name: Ela real_sideblink_exit5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 4
+      width: 54
+      height: 30
+    spriteID: a283812c8982c524b952ab4b18af7655
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -24, y: -78}
+  - name: Ela real_sideblink_exit4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 4
+      width: 54
+      height: 30
+    spriteID: 66a81d7116256fe4380f51af3792acbc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 38, y: -78}
+  - name: Ela real_sideblink_exit3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 4
+      width: 54
+      height: 30
+    spriteID: 662c547539dfbcd499d6af7aa0a66077
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 100, y: -78}
+  - name: Ela real_sideblink_exit2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 314
+      y: 4
+      width: 54
+      height: 30
+    spriteID: bdce3a25758ae164d99bf3098a4e47e9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 162, y: -78}
+  - name: Ela real_sideblink_exit1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 376
+      y: 4
+      width: 54
+      height: 30
+    spriteID: 715eee2972aa52843953eb2af8fa6930
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 224, y: -78}
+  - name: Ela real_sideblink_open13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 4
+      width: 56
+      height: 27
+    spriteID: d239a01cb9a544546927c7d921a1ac53
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 367, y: -79}
+  - name: Ela real_sideblink_open12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 42
+      width: 56
+      height: 27
+    spriteID: f4de16640c4ab544cab2d013558e7c3c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 11, y: -41}
+  - name: Ela real_sideblink_open11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 42
+      width: 56
+      height: 27
+    spriteID: ba74218a880093246bb98043260f5a6e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 75, y: -41}
+  - name: Ela real_sideblink_open10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 42
+      width: 56
+      height: 27
+    spriteID: b4a6e08ac05416b479129e68802694e3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 139, y: -41}
+  - name: Ela real_sideblink_open9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 42
+      width: 56
+      height: 27
+    spriteID: 2fc5a915d58d2204ab4763df47deb905
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 203, y: -41}
+  - name: Ela real_sideblink_open8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 338
+      y: 42
+      width: 56
+      height: 27
+    spriteID: d22e1a37279f6fa43b9cf2af2a175650
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 267, y: -41}
+  - name: Ela real_sideblink_open7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 42
+      width: 56
+      height: 27
+    spriteID: 27bcec2722094484e83108d81f452937
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 331, y: -41}
+  - name: Ela real_sideblink_open6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 77
+      width: 56
+      height: 27
+    spriteID: 6df1d7e6e8dc930459ebfa406d34d914
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 11, y: -6}
+  - name: Ela real_sideblink_open5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 77
+      width: 56
+      height: 27
+    spriteID: a16ac0ee2e26a8e419b2cd7a4fb309a2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 75, y: -6}
+  - name: Ela real_sideblink_open4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 77
+      width: 56
+      height: 27
+    spriteID: d1a1f7213b454eb4682abc92f6ba7828
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 139, y: -6}
+  - name: Ela real_sideblink_open3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 77
+      width: 56
+      height: 27
+    spriteID: 0f2c638781cd4614cba6413d43e9d5ff
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 203, y: -6}
+  - name: Ela real_sideblink_open2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 338
+      y: 77
+      width: 56
+      height: 27
+    spriteID: 91e7bfa41713e2142ba416e76ebe488e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 267, y: -6}
+  - name: Ela real_sideblink_open1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 402
+      y: 77
+      width: 56
+      height: 27
+    spriteID: be0290d9872560543b9a051bb480ead5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 331, y: -6}
+  - name: Ela real_dying10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 42
+      width: 31
+      height: 50
+    spriteID: 5786486a1fd83ae40ac5161df499634d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: -18}
+  - name: Ela real_dying9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 100
+      width: 31
+      height: 50
+    spriteID: 1d7243e95f5975e419f133d66284ab3b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: 40}
+  - name: Ela real_dying8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 158
+      width: 31
+      height: 50
+    spriteID: ad7985a23e5b4a644a5f0f4597780cea
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: 98}
+  - name: Ela real_dying7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 216
+      width: 31
+      height: 50
+    spriteID: a60ea7b48775d344d84a14c25da52b94
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: 156}
+  - name: Ela real_dying6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 274
+      width: 31
+      height: 50
+    spriteID: f46924958ff0bb340b6f3583c8bf4ce2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: 214}
+  - name: Ela real_dying5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 332
+      width: 31
+      height: 50
+    spriteID: d7574fdd4a66c5b46a2e2e195ea96789
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: 272}
+  - name: Ela real_dying4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 390
+      width: 31
+      height: 50
+    spriteID: 8408c089336e49a41a7a0f95d3c7881c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: 330}
+  - name: Ela real_dying3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 448
+      width: 31
+      height: 50
+    spriteID: 5edd3da6ebd74c5448be45be195c2c42
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -233, y: 388}
+  - name: Ela real_dying2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 42
+      width: 31
+      height: 50
+    spriteID: e9c6ef7ab6f47cb47b44f11f19066246
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -194, y: -18}
+  - name: Ela real_dying1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 100
+      width: 31
+      height: 50
+    spriteID: a03e3397025cac0428403cdda1813384
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -194, y: 40}
+  - name: Ela real_windfeel8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 112
+      width: 24
+      height: 29
+    spriteID: 24deb4ae6c59c834ab40b6e0fbc44831
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 30}
+  - name: Ela real_windfeel7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 149
+      width: 24
+      height: 29
+    spriteID: 6dac67b668e049945836ad60632463f6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 67}
+  - name: Ela real_windfeel6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 186
+      width: 24
+      height: 29
+    spriteID: 7f8dbf6005ad9774f948ebe1b6dfe1ba
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 104}
+  - name: Ela real_windfeel5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 223
+      width: 24
+      height: 29
+    spriteID: 8841cb81b3774594e88a861eb18c4cf5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 141}
+  - name: Ela real_windfeel4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 260
+      width: 24
+      height: 29
+    spriteID: d38a6f20c2418e7419cdf9142dd9c98a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 178}
+  - name: Ela real_windfeel3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 297
+      width: 24
+      height: 29
+    spriteID: 9f786590ab3fcda41a3f3f11f61b87ad
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 215}
+  - name: Ela real_windfeel2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 334
+      width: 24
+      height: 29
+    spriteID: aae3c6b16c4077e4fa2cb2ab01ad5c80
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 252}
+  - name: Ela real_windfeel1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 371
+      width: 24
+      height: 29
+    spriteID: 57ee95420e1e25a4cb84905df20c44e3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -23, y: 289}
+  - name: Ela real_Stopped8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 444
+      width: 23
+      height: 28
+    spriteID: 43092017aeb3c0642a791519051f3419
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -94, y: 362}
+  - name: Ela real_Stopped7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 480
+      width: 23
+      height: 28
+    spriteID: 04b641a1b5adf22489cf6d4f659b3653
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -94, y: 398}
+  - name: Ela real_Stopped6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 112
+      width: 23
+      height: 28
+    spriteID: 1424a85ca550df248bf8db2734c87d40
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 30}
+  - name: Ela real_Stopped5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 148
+      width: 23
+      height: 28
+    spriteID: bef7a145ad9c2da4eb2ccbdce6c259aa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 66}
+  - name: Ela real_Stopped4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 184
+      width: 23
+      height: 28
+    spriteID: 8e71d38cf07f513439ae493832f99e7c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 102}
+  - name: Ela real_Stopped3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 220
+      width: 23
+      height: 28
+    spriteID: 4a05d495b4494434fba5bc4fe67b9f6a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 138}
+  - name: Ela real_Stopped2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 256
+      width: 23
+      height: 28
+    spriteID: bf32fe8c4ae175c4c875c45b136ce1b7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 174}
+  - name: Ela real_Stopped1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 292
+      width: 23
+      height: 28
+    spriteID: 41629a6e8cffe7a40831b52fc0a05e21
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 210}
+  - name: Ela real_impact 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 408
+      width: 24
+      height: 28
+    spriteID: aea15259af8e1404ab9eb7b61851f3da
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -129, y: 392}
+  - name: Ela real_impact 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 112
+      width: 27
+      height: 28
+    spriteID: 990f83683a5caa048bef655b774ecc02
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -161, y: 96}
+  - name: Ela real_falling 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 43
+      y: 468
+      width: 24
+      height: 35
+    spriteID: 99752b12928cf754a9b133c2ac732270
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -267, y: 420}
+  - name: Ela real_jumping2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 328
+      width: 22
+      height: 29
+    spriteID: 6cdddb4b37f9b5d42a5df8a818f68b2c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -97, y: 245}
+  - name: Ela real_jumping1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 365
+      width: 22
+      height: 29
+    spriteID: 5ec8c14d3097c97449ec7a0e0fb84a4b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -97, y: 282}
+  - name: Ela real_Running10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 148
+      width: 26
+      height: 28
+    spriteID: 3e7786d25ae15c440bd24c1c1ea6bf4f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 66}
+  - name: Ela real_Running9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 184
+      width: 26
+      height: 28
+    spriteID: 5673045e16a430348a20b1119b20a629
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 102}
+  - name: Ela real_Running8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 220
+      width: 26
+      height: 28
+    spriteID: cfef5d1a93f2cd442913098435954742
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 138}
+  - name: Ela real_Running7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 256
+      width: 26
+      height: 28
+    spriteID: 0c987b1c46ccf074eb7e3ed750577e73
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 174}
+  - name: Ela real_Running6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 292
+      width: 26
+      height: 28
+    spriteID: cff817b507333f84798ce61166124217
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 210}
+  - name: Ela real_Running5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 328
+      width: 26
+      height: 28
+    spriteID: 0c07b54a3ecc2b94980a616edb739692
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 246}
+  - name: Ela real_Running4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 364
+      width: 26
+      height: 28
+    spriteID: 52cb8fb46a21bdf4c9221b1cdcdd8c3f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 282}
+  - name: Ela real_Running3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 400
+      width: 26
+      height: 28
+    spriteID: 90e1829b2b9b40846ab7030e78023f62
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 318}
+  - name: Ela real_Running2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 436
+      width: 26
+      height: 28
+    spriteID: 32de19706f168db4cb82747b12fbc2e0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 354}
+  - name: Ela real_Running1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 472
+      width: 26
+      height: 28
+    spriteID: 083edffb0c1bbe34a8883321704974d4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -193, y: 390}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 512
+  importedTextureHeight: 512
+  documentSize: {x: 370, y: 149}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 512
+  textureActualHeight: 512
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Ela de cima
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 98
+    mosaicPosition: {x: 0, y: 0}
+  - name: Blink cima - Saida
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 208
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_upblink_exit5
+    spriteName: Ela real_upblink_exit5
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 4e1169c7198ae8445af7a45d0fe434e7
+    layerID: 276
+    mosaicPosition: {x: 114, y: 174}
+  - name: Ela real_upblink_exit4
+    spriteName: Ela real_upblink_exit4
+    isGroup: 0
+    parentIndex: 1
+    spriteID: f2af7c42bf32da647be9bad345229fb2
+    layerID: 207
+    mosaicPosition: {x: 114, y: 236}
+  - name: Ela real_upblink_exit3
+    spriteName: Ela real_upblink_exit3
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 1eaa64d6c3e52d04fa40c9f707d88cda
+    layerID: 206
+    mosaicPosition: {x: 114, y: 298}
+  - name: Ela real_upblink_exit2
+    spriteName: Ela real_upblink_exit2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: e8eab8b175f0af04992d8959a90d625d
+    layerID: 205
+    mosaicPosition: {x: 114, y: 360}
+  - name: Ela real_upblink_exit1
+    spriteName: Ela real_upblink_exit1
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 03a20975bd6d7644a88a858f407c3427
+    layerID: 204
+    mosaicPosition: {x: 114, y: 422}
+  - name: Blink cima - Entrada
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 260
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_upblink_open12
+    spriteName: Ela real_upblink_open12
+    isGroup: 0
+    parentIndex: 7
+    spriteID: dc28b2ec265591a449b6c3e9399ede15
+    layerID: 259
+    mosaicPosition: {x: 43, y: 158}
+  - name: Ela real_upblink_open11
+    spriteName: Ela real_upblink_open11
+    isGroup: 0
+    parentIndex: 7
+    spriteID: a78676e61d140fa439e3e4e54ccc110c
+    layerID: 258
+    mosaicPosition: {x: 43, y: 220}
+  - name: Ela real_upblink_open10
+    spriteName: Ela real_upblink_open10
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 137f2a7fb8cbab348b55c1096052186e
+    layerID: 257
+    mosaicPosition: {x: 43, y: 282}
+  - name: Ela real_upblink_open9
+    spriteName: Ela real_upblink_open9
+    isGroup: 0
+    parentIndex: 7
+    spriteID: e9ba2e5977a068648a83f1ce69960aff
+    layerID: 256
+    mosaicPosition: {x: 43, y: 344}
+  - name: Ela real_upblink_open8
+    spriteName: Ela real_upblink_open8
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 51e7de7a21c622745802ebf716d438c7
+    layerID: 255
+    mosaicPosition: {x: 43, y: 406}
+  - name: Ela real_upblink_open7
+    spriteName: Ela real_upblink_open7
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 1d29985c78bde284bbb751b4dbc97615
+    layerID: 254
+    mosaicPosition: {x: 82, y: 112}
+  - name: Ela real_upblink_open6
+    spriteName: Ela real_upblink_open6
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 78ef669a3c7c4664aa759e8e32f6ef79
+    layerID: 253
+    mosaicPosition: {x: 82, y: 174}
+  - name: Ela real_upblink_open5
+    spriteName: Ela real_upblink_open5
+    isGroup: 0
+    parentIndex: 7
+    spriteID: ad7434c0ae74d714ba177efc342a6c54
+    layerID: 252
+    mosaicPosition: {x: 82, y: 236}
+  - name: Ela real_upblink_open4
+    spriteName: Ela real_upblink_open4
+    isGroup: 0
+    parentIndex: 7
+    spriteID: a169c76bc0d3f6b458233cb38aa2a81c
+    layerID: 251
+    mosaicPosition: {x: 82, y: 298}
+  - name: Ela real_upblink_open3
+    spriteName: Ela real_upblink_open3
+    isGroup: 0
+    parentIndex: 7
+    spriteID: e6363c6f248439a4a814f1bfa4bbdb5b
+    layerID: 250
+    mosaicPosition: {x: 82, y: 360}
+  - name: Ela real_upblink_open2
+    spriteName: Ela real_upblink_open2
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 8cf453752f56d914e95423ed373e9836
+    layerID: 262
+    mosaicPosition: {x: 82, y: 422}
+  - name: Ela real_upblink_open1
+    spriteName: Ela real_upblink_open1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 6929f798c9de2a7458725fd307714b64
+    layerID: 261
+    mosaicPosition: {x: 114, y: 112}
+  - name: Blink lateral - Saida
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 274
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_sideblink_exit7
+    spriteName: Ela real_sideblink_exit7
+    isGroup: 0
+    parentIndex: 20
+    spriteID: ad42a2bf680c4f34099c379a6289a261
+    layerID: 273
+    mosaicPosition: {x: 4, y: 4}
+  - name: Ela real_sideblink_exit6
+    spriteName: Ela real_sideblink_exit6
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 2eb8a8e02e32d4e4983b7993896f5ff8
+    layerID: 272
+    mosaicPosition: {x: 66, y: 4}
+  - name: Ela real_sideblink_exit5
+    spriteName: Ela real_sideblink_exit5
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 318beb1317914ab4291ac47dfc21c349
+    layerID: 271
+    mosaicPosition: {x: 128, y: 4}
+  - name: Ela real_sideblink_exit4
+    spriteName: Ela real_sideblink_exit4
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 4495717cac2260841a25b0b7c97eb5b2
+    layerID: 267
+    mosaicPosition: {x: 190, y: 4}
+  - name: Ela real_sideblink_exit3
+    spriteName: Ela real_sideblink_exit3
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 1e98b61529420a04284261ede21b1845
+    layerID: 266
+    mosaicPosition: {x: 252, y: 4}
+  - name: Ela real_sideblink_exit2
+    spriteName: Ela real_sideblink_exit2
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 87d83e7fc31db5e40803ece0a0e1e5d2
+    layerID: 265
+    mosaicPosition: {x: 314, y: 4}
+  - name: Ela real_sideblink_exit1
+    spriteName: Ela real_sideblink_exit1
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 4a953a8e6dee028428386bcc04ae41ce
+    layerID: 264
+    mosaicPosition: {x: 376, y: 4}
+  - name: Blink lateral - Entrada
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 180
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_sideblink_open13
+    spriteName: Ela real_sideblink_open13
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 59408b2e6cd902d438addb1bde954797
+    layerID: 201
+    mosaicPosition: {x: 438, y: 4}
+  - name: Ela real_sideblink_open12
+    spriteName: Ela real_sideblink_open12
+    isGroup: 0
+    parentIndex: 28
+    spriteID: f201f16f013f40048859306c254f9085
+    layerID: 200
+    mosaicPosition: {x: 82, y: 42}
+  - name: Ela real_sideblink_open11
+    spriteName: Ela real_sideblink_open11
+    isGroup: 0
+    parentIndex: 28
+    spriteID: ca273160368aa914b963706dc42fcd13
+    layerID: 199
+    mosaicPosition: {x: 146, y: 42}
+  - name: Ela real_sideblink_open10
+    spriteName: Ela real_sideblink_open10
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 0adcbc4dba5c4fe4a8689de9fd8ae6af
+    layerID: 198
+    mosaicPosition: {x: 210, y: 42}
+  - name: Ela real_sideblink_open9
+    spriteName: Ela real_sideblink_open9
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 21a00f789adb7c445891e559884f3a8c
+    layerID: 203
+    mosaicPosition: {x: 274, y: 42}
+  - name: Ela real_sideblink_open8
+    spriteName: Ela real_sideblink_open8
+    isGroup: 0
+    parentIndex: 28
+    spriteID: b1aef076d741ed84aa1d5c8d8c7ae73e
+    layerID: 202
+    mosaicPosition: {x: 338, y: 42}
+  - name: Ela real_sideblink_open7
+    spriteName: Ela real_sideblink_open7
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 26dd2bc3e9f26674d9560ecdcb4b8f13
+    layerID: 187
+    mosaicPosition: {x: 402, y: 42}
+  - name: Ela real_sideblink_open6
+    spriteName: Ela real_sideblink_open6
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 5d36f5bf78084c2449b7ab465f40ae87
+    layerID: 186
+    mosaicPosition: {x: 82, y: 77}
+  - name: Ela real_sideblink_open5
+    spriteName: Ela real_sideblink_open5
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 35f6070c5743057478c182067c9eef98
+    layerID: 185
+    mosaicPosition: {x: 146, y: 77}
+  - name: Ela real_sideblink_open4
+    spriteName: Ela real_sideblink_open4
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 40066147ebe3e4c4f81d184453b0ef99
+    layerID: 184
+    mosaicPosition: {x: 210, y: 77}
+  - name: Ela real_sideblink_open3
+    spriteName: Ela real_sideblink_open3
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 68e6390bf74db314ba0ad50dbc038bdb
+    layerID: 183
+    mosaicPosition: {x: 274, y: 77}
+  - name: Ela real_sideblink_open2
+    spriteName: Ela real_sideblink_open2
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 1998deb1526e07a4eab12ad0b6d168d9
+    layerID: 182
+    mosaicPosition: {x: 338, y: 77}
+  - name: Ela real_sideblink_open1
+    spriteName: Ela real_sideblink_open1
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 716333dd67e7b6b41a705d61f2412ace
+    layerID: 179
+    mosaicPosition: {x: 402, y: 77}
+  - name: Morrendo
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 286
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_dying10
+    spriteName: Ela real_dying10
+    isGroup: 0
+    parentIndex: 42
+    spriteID: 658af38ce3e54ad4f8c828d11f6a997e
+    layerID: 320
+    mosaicPosition: {x: 4, y: 42}
+  - name: Ela real_dying9
+    spriteName: Ela real_dying9
+    isGroup: 0
+    parentIndex: 42
+    spriteID: 90aeb0a43692ccd4eaafbc6feff0d384
+    layerID: 302
+    mosaicPosition: {x: 4, y: 100}
+  - name: Ela real_dying8
+    spriteName: Ela real_dying8
+    isGroup: 0
+    parentIndex: 42
+    spriteID: 762d132adb86cba418de902bcd7f4ba9
+    layerID: 301
+    mosaicPosition: {x: 4, y: 158}
+  - name: Ela real_dying7
+    spriteName: Ela real_dying7
+    isGroup: 0
+    parentIndex: 42
+    spriteID: 63c6ddd8b7bf26241bc28298907c294e
+    layerID: 300
+    mosaicPosition: {x: 4, y: 216}
+  - name: Ela real_dying6
+    spriteName: Ela real_dying6
+    isGroup: 0
+    parentIndex: 42
+    spriteID: e3efa41c581cabc48956f93fbaff5175
+    layerID: 319
+    mosaicPosition: {x: 4, y: 274}
+  - name: Ela real_dying5
+    spriteName: Ela real_dying5
+    isGroup: 0
+    parentIndex: 42
+    spriteID: c373c403fdce00640870a525fb60f7ab
+    layerID: 318
+    mosaicPosition: {x: 4, y: 332}
+  - name: Ela real_dying4
+    spriteName: Ela real_dying4
+    isGroup: 0
+    parentIndex: 42
+    spriteID: 821e73f46c4f97c4c8caf1887f332754
+    layerID: 317
+    mosaicPosition: {x: 4, y: 390}
+  - name: Ela real_dying3
+    spriteName: Ela real_dying3
+    isGroup: 0
+    parentIndex: 42
+    spriteID: 54256cfbe6c37444386c7ca95fd0a283
+    layerID: 287
+    mosaicPosition: {x: 4, y: 448}
+  - name: Ela real_dying2
+    spriteName: Ela real_dying2
+    isGroup: 0
+    parentIndex: 42
+    spriteID: 723a45d5f648ac1469b0f5d3c6d3a0cc
+    layerID: 279
+    mosaicPosition: {x: 43, y: 42}
+  - name: Ela real_dying1
+    spriteName: Ela real_dying1
+    isGroup: 0
+    parentIndex: 42
+    spriteID: 7f525af96f458574f806b864c9fd3409
+    layerID: 278
+    mosaicPosition: {x: 43, y: 100}
+  - name: Sentindo o vento
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 350
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_windfeel8
+    spriteName: Ela real_windfeel8
+    isGroup: 0
+    parentIndex: 53
+    spriteID: fdbd70a28386fca4694bb58e4bbaf85d
+    layerID: 349
+    mosaicPosition: {x: 181, y: 112}
+  - name: Ela real_windfeel7
+    spriteName: Ela real_windfeel7
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 1548acb3bc1aa2b49b84fcfff47b6fd6
+    layerID: 348
+    mosaicPosition: {x: 181, y: 149}
+  - name: Ela real_windfeel6
+    spriteName: Ela real_windfeel6
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 75bd2c9a099a24f47bebc15dde593418
+    layerID: 347
+    mosaicPosition: {x: 181, y: 186}
+  - name: Ela real_windfeel5
+    spriteName: Ela real_windfeel5
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 5205ebcbabfdf6a4da2f12f252f3e357
+    layerID: 346
+    mosaicPosition: {x: 181, y: 223}
+  - name: Ela real_windfeel4
+    spriteName: Ela real_windfeel4
+    isGroup: 0
+    parentIndex: 53
+    spriteID: ff193a5631b6ab049819aab1ca7d7f4c
+    layerID: 345
+    mosaicPosition: {x: 181, y: 260}
+  - name: Ela real_windfeel3
+    spriteName: Ela real_windfeel3
+    isGroup: 0
+    parentIndex: 53
+    spriteID: ffc933344f7883142bc83cf627e13314
+    layerID: 344
+    mosaicPosition: {x: 181, y: 297}
+  - name: Ela real_windfeel2
+    spriteName: Ela real_windfeel2
+    isGroup: 0
+    parentIndex: 53
+    spriteID: af047effe05a3b34a8187a5b48f9e908
+    layerID: 343
+    mosaicPosition: {x: 181, y: 334}
+  - name: Ela real_windfeel1
+    spriteName: Ela real_windfeel1
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 72e2a031eb3fb78418548d022fa67b4b
+    layerID: 342
+    mosaicPosition: {x: 181, y: 371}
+  - name: Parada
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 92
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_Stopped8
+    spriteName: Ela real_Stopped8
+    isGroup: 0
+    parentIndex: 62
+    spriteID: 177ae44ef8b3e84479dd6ebd90da78b7
+    layerID: 83
+    mosaicPosition: {x: 181, y: 444}
+  - name: Ela real_Stopped7
+    spriteName: Ela real_Stopped7
+    isGroup: 0
+    parentIndex: 62
+    spriteID: aacdf26db49775f4b85ffa334babc30c
+    layerID: 91
+    mosaicPosition: {x: 181, y: 480}
+  - name: Ela real_Stopped6
+    spriteName: Ela real_Stopped6
+    isGroup: 0
+    parentIndex: 62
+    spriteID: b2f4825a268f7c249b5092f50ab7ca4f
+    layerID: 90
+    mosaicPosition: {x: 213, y: 112}
+  - name: Ela real_Stopped5
+    spriteName: Ela real_Stopped5
+    isGroup: 0
+    parentIndex: 62
+    spriteID: 29b514ca1b243524880e41e80a759a95
+    layerID: 87
+    mosaicPosition: {x: 213, y: 148}
+  - name: Ela real_Stopped4
+    spriteName: Ela real_Stopped4
+    isGroup: 0
+    parentIndex: 62
+    spriteID: dbb16df8d2be9f942b7b54e048a59c0c
+    layerID: 86
+    mosaicPosition: {x: 213, y: 184}
+  - name: Ela real_Stopped3
+    spriteName: Ela real_Stopped3
+    isGroup: 0
+    parentIndex: 62
+    spriteID: f7a7cc35cef33c04d92dfd3c86e63f0b
+    layerID: 82
+    mosaicPosition: {x: 213, y: 220}
+  - name: Ela real_Stopped2
+    spriteName: Ela real_Stopped2
+    isGroup: 0
+    parentIndex: 62
+    spriteID: c2ba4ff0fa815bb488c412aaf186d545
+    layerID: 81
+    mosaicPosition: {x: 213, y: 256}
+  - name: Ela real_Stopped1
+    spriteName: Ela real_Stopped1
+    isGroup: 0
+    parentIndex: 62
+    spriteID: 826a3ac758190824d9d41f7b1eff0518
+    layerID: 79
+    mosaicPosition: {x: 213, y: 292}
+  - name: "Impacto no ch\xE3o"
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 403
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_impact 2
+    spriteName: Ela real_impact 2
+    isGroup: 0
+    parentIndex: 71
+    spriteID: ebc52c331aa60bb4886b0da608683b3b
+    layerID: 402
+    mosaicPosition: {x: 181, y: 408}
+  - name: Ela real_impact 1
+    spriteName: Ela real_impact 1
+    isGroup: 0
+    parentIndex: 71
+    spriteID: 604e59aad0411a54ebcb6be62f611fe3
+    layerID: 401
+    mosaicPosition: {x: 146, y: 112}
+  - name: Caindo
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 398
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_falling 1
+    spriteName: Ela real_falling 1
+    isGroup: 0
+    parentIndex: 74
+    spriteID: a98dd6bc0406c9745a027dd1288ac3ae
+    layerID: 394
+    mosaicPosition: {x: 43, y: 468}
+  - name: Pulando
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 72
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_jumping2
+    spriteName: Ela real_jumping2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: f8d147fc215926f4aae9def1f87db3ff
+    layerID: 78
+    mosaicPosition: {x: 213, y: 328}
+  - name: Ela real_jumping1
+    spriteName: Ela real_jumping1
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 5e05763ae4cc7b348a40ba6415cc5d01
+    layerID: 71
+    mosaicPosition: {x: 213, y: 365}
+  - name: Correndo
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 39
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_Running10
+    spriteName: Ela real_Running10
+    isGroup: 0
+    parentIndex: 79
+    spriteID: b7a4c2c6239d53f488fedc20e8510f9e
+    layerID: 52
+    mosaicPosition: {x: 146, y: 148}
+  - name: Ela real_Running9
+    spriteName: Ela real_Running9
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 180a7e81abc7ad443813148ed2b7b9e2
+    layerID: 51
+    mosaicPosition: {x: 146, y: 184}
+  - name: Ela real_Running8
+    spriteName: Ela real_Running8
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 84bd370e281e55446ac7b8e4ec15c39b
+    layerID: 49
+    mosaicPosition: {x: 146, y: 220}
+  - name: Ela real_Running7
+    spriteName: Ela real_Running7
+    isGroup: 0
+    parentIndex: 79
+    spriteID: de76ca75163dda04886ad3cc3e0b61a4
+    layerID: 48
+    mosaicPosition: {x: 146, y: 256}
+  - name: Ela real_Running6
+    spriteName: Ela real_Running6
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 1f8870dee7e289c47bec947d3907eb4d
+    layerID: 47
+    mosaicPosition: {x: 146, y: 292}
+  - name: Ela real_Running5
+    spriteName: Ela real_Running5
+    isGroup: 0
+    parentIndex: 79
+    spriteID: ff0418d3483803649b855b88ce21c0f1
+    layerID: 38
+    mosaicPosition: {x: 146, y: 328}
+  - name: Ela real_Running4
+    spriteName: Ela real_Running4
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 331b279543aa3b74db3134637eeee11a
+    layerID: 37
+    mosaicPosition: {x: 146, y: 364}
+  - name: Ela real_Running3
+    spriteName: Ela real_Running3
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 60bdcbb3122661a4f8571dc4ea8906f4
+    layerID: 35
+    mosaicPosition: {x: 146, y: 400}
+  - name: Ela real_Running2
+    spriteName: Ela real_Running2
+    isGroup: 0
+    parentIndex: 79
+    spriteID: a5a5a615daa0a044f88bcc012723e23a
+    layerID: 34
+    mosaicPosition: {x: 146, y: 436}
+  - name: Ela real_Running1
+    spriteName: Ela real_Running1
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 6423edceb8a2985499553a92310c5d91
+    layerID: 33
+    mosaicPosition: {x: 146, y: 472}
+  rigPSDLayers:
+  - name: Ela de cima
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 98
+    mosaicPosition: {x: 0, y: 0}
+  - name: Blink cima - Saida
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 208
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_upblink_exit5
+    spriteName: Ela real_upblink_exit5
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 27f2e2c2c1f9ea14399d4da9a960a235
+    layerID: 276
+    mosaicPosition: {x: 114, y: 174}
+  - name: Ela real_upblink_exit4
+    spriteName: Ela real_upblink_exit4
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 24618a9c8aec4984ba8588984df3616b
+    layerID: 207
+    mosaicPosition: {x: 114, y: 236}
+  - name: Ela real_upblink_exit3
+    spriteName: Ela real_upblink_exit3
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 9595dc3f2856c2e4f8ecba48368592d0
+    layerID: 206
+    mosaicPosition: {x: 114, y: 298}
+  - name: Ela real_upblink_exit2
+    spriteName: Ela real_upblink_exit2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 1b18314ee75262f4bbc563d03d1ae4e6
+    layerID: 205
+    mosaicPosition: {x: 114, y: 360}
+  - name: Ela real_upblink_exit1
+    spriteName: Ela real_upblink_exit1
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 21fff6d7dd8a74c48ab531d76eb0a196
+    layerID: 204
+    mosaicPosition: {x: 114, y: 422}
+  - name: Blink cima - Entrada
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 260
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_upblink_open12
+    spriteName: Ela real_upblink_open12
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 987e492a2b22bae4b9d16138aa3c7582
+    layerID: 259
+    mosaicPosition: {x: 43, y: 158}
+  - name: Ela real_upblink_open11
+    spriteName: Ela real_upblink_open11
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 84fb6f03c1e545f4bb9646bd6b59de01
+    layerID: 258
+    mosaicPosition: {x: 43, y: 220}
+  - name: Ela real_upblink_open10
+    spriteName: Ela real_upblink_open10
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 575c4e0b6ef264e42a0bfb6cf85aed2a
+    layerID: 257
+    mosaicPosition: {x: 43, y: 282}
+  - name: Ela real_upblink_open9
+    spriteName: Ela real_upblink_open9
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 2b5b1b92899956c4a9fe19dc82a429ed
+    layerID: 256
+    mosaicPosition: {x: 43, y: 344}
+  - name: Ela real_upblink_open8
+    spriteName: Ela real_upblink_open8
+    isGroup: 0
+    parentIndex: 7
+    spriteID: f0925a70f8579864b83c903fe2d5efe3
+    layerID: 255
+    mosaicPosition: {x: 43, y: 406}
+  - name: Ela real_upblink_open7
+    spriteName: Ela real_upblink_open7
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 1ac190c76e95f934b857b4aa11b18aa2
+    layerID: 254
+    mosaicPosition: {x: 82, y: 112}
+  - name: Ela real_upblink_open6
+    spriteName: Ela real_upblink_open6
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 30f5f441ddbcdc54d83f609f0f781a86
+    layerID: 253
+    mosaicPosition: {x: 82, y: 174}
+  - name: Ela real_upblink_open5
+    spriteName: Ela real_upblink_open5
+    isGroup: 0
+    parentIndex: 7
+    spriteID: e7f6e8023d8d7e944bf4c2c72a95f2a7
+    layerID: 252
+    mosaicPosition: {x: 82, y: 236}
+  - name: Ela real_upblink_open4
+    spriteName: Ela real_upblink_open4
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 6fa38c10ded96434f9dece3031cb0911
+    layerID: 251
+    mosaicPosition: {x: 82, y: 298}
+  - name: Ela real_upblink_open3
+    spriteName: Ela real_upblink_open3
+    isGroup: 0
+    parentIndex: 7
+    spriteID: a6998e494e3b31f4a8015989f463e941
+    layerID: 250
+    mosaicPosition: {x: 82, y: 360}
+  - name: Ela real_upblink_open2
+    spriteName: Ela real_upblink_open2
+    isGroup: 0
+    parentIndex: 7
+    spriteID: a16ca4e5c7ea0274eadf7bc0efa0d7b7
+    layerID: 262
+    mosaicPosition: {x: 82, y: 422}
+  - name: Ela real_upblink_open1
+    spriteName: Ela real_upblink_open1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 1e4e87e875f56974587151190e6f3e7f
+    layerID: 261
+    mosaicPosition: {x: 114, y: 112}
+  - name: Blink lateral - Saida
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 274
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_sideblink_exit7
+    spriteName: Ela real_sideblink_exit7
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 43794bcd2818d2546981bc6228544487
+    layerID: 273
+    mosaicPosition: {x: 4, y: 4}
+  - name: Ela real_sideblink_exit6
+    spriteName: Ela real_sideblink_exit6
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 0b7a3d75905c59241b6048f8b7276621
+    layerID: 272
+    mosaicPosition: {x: 66, y: 4}
+  - name: Ela real_sideblink_exit5
+    spriteName: Ela real_sideblink_exit5
+    isGroup: 0
+    parentIndex: 20
+    spriteID: a283812c8982c524b952ab4b18af7655
+    layerID: 271
+    mosaicPosition: {x: 128, y: 4}
+  - name: Ela real_sideblink_exit4
+    spriteName: Ela real_sideblink_exit4
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 66a81d7116256fe4380f51af3792acbc
+    layerID: 267
+    mosaicPosition: {x: 190, y: 4}
+  - name: Ela real_sideblink_exit3
+    spriteName: Ela real_sideblink_exit3
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 662c547539dfbcd499d6af7aa0a66077
+    layerID: 266
+    mosaicPosition: {x: 252, y: 4}
+  - name: Ela real_sideblink_exit2
+    spriteName: Ela real_sideblink_exit2
+    isGroup: 0
+    parentIndex: 20
+    spriteID: bdce3a25758ae164d99bf3098a4e47e9
+    layerID: 265
+    mosaicPosition: {x: 314, y: 4}
+  - name: Ela real_sideblink_exit1
+    spriteName: Ela real_sideblink_exit1
+    isGroup: 0
+    parentIndex: 20
+    spriteID: 715eee2972aa52843953eb2af8fa6930
+    layerID: 264
+    mosaicPosition: {x: 376, y: 4}
+  - name: Blink lateral - Entrada
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 180
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_sideblink_open13
+    spriteName: Ela real_sideblink_open13
+    isGroup: 0
+    parentIndex: 28
+    spriteID: d239a01cb9a544546927c7d921a1ac53
+    layerID: 201
+    mosaicPosition: {x: 438, y: 4}
+  - name: Ela real_sideblink_open12
+    spriteName: Ela real_sideblink_open12
+    isGroup: 0
+    parentIndex: 28
+    spriteID: f4de16640c4ab544cab2d013558e7c3c
+    layerID: 200
+    mosaicPosition: {x: 82, y: 42}
+  - name: Ela real_sideblink_open11
+    spriteName: Ela real_sideblink_open11
+    isGroup: 0
+    parentIndex: 28
+    spriteID: ba74218a880093246bb98043260f5a6e
+    layerID: 199
+    mosaicPosition: {x: 146, y: 42}
+  - name: Ela real_sideblink_open10
+    spriteName: Ela real_sideblink_open10
+    isGroup: 0
+    parentIndex: 28
+    spriteID: b4a6e08ac05416b479129e68802694e3
+    layerID: 198
+    mosaicPosition: {x: 210, y: 42}
+  - name: Ela real_sideblink_open9
+    spriteName: Ela real_sideblink_open9
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 2fc5a915d58d2204ab4763df47deb905
+    layerID: 203
+    mosaicPosition: {x: 274, y: 42}
+  - name: Ela real_sideblink_open8
+    spriteName: Ela real_sideblink_open8
+    isGroup: 0
+    parentIndex: 28
+    spriteID: d22e1a37279f6fa43b9cf2af2a175650
+    layerID: 202
+    mosaicPosition: {x: 338, y: 42}
+  - name: Ela real_sideblink_open7
+    spriteName: Ela real_sideblink_open7
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 27bcec2722094484e83108d81f452937
+    layerID: 187
+    mosaicPosition: {x: 402, y: 42}
+  - name: Ela real_sideblink_open6
+    spriteName: Ela real_sideblink_open6
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 6df1d7e6e8dc930459ebfa406d34d914
+    layerID: 186
+    mosaicPosition: {x: 82, y: 77}
+  - name: Ela real_sideblink_open5
+    spriteName: Ela real_sideblink_open5
+    isGroup: 0
+    parentIndex: 28
+    spriteID: a16ac0ee2e26a8e419b2cd7a4fb309a2
+    layerID: 185
+    mosaicPosition: {x: 146, y: 77}
+  - name: Ela real_sideblink_open4
+    spriteName: Ela real_sideblink_open4
+    isGroup: 0
+    parentIndex: 28
+    spriteID: d1a1f7213b454eb4682abc92f6ba7828
+    layerID: 184
+    mosaicPosition: {x: 210, y: 77}
+  - name: Ela real_sideblink_open3
+    spriteName: Ela real_sideblink_open3
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 0f2c638781cd4614cba6413d43e9d5ff
+    layerID: 183
+    mosaicPosition: {x: 274, y: 77}
+  - name: Ela real_sideblink_open2
+    spriteName: Ela real_sideblink_open2
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 91e7bfa41713e2142ba416e76ebe488e
+    layerID: 182
+    mosaicPosition: {x: 338, y: 77}
+  - name: Ela real_sideblink_open1
+    spriteName: Ela real_sideblink_open1
+    isGroup: 0
+    parentIndex: 28
+    spriteID: be0290d9872560543b9a051bb480ead5
+    layerID: 179
+    mosaicPosition: {x: 402, y: 77}
+  - name: Morrendo
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 286
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_dying10
+    spriteName: Ela real_dying10
+    isGroup: 0
+    parentIndex: 42
+    spriteID: 5786486a1fd83ae40ac5161df499634d
+    layerID: 320
+    mosaicPosition: {x: 4, y: 42}
+  - name: Ela real_dying9
+    spriteName: Ela real_dying9
+    isGroup: 0
+    parentIndex: 42
+    spriteID: 1d7243e95f5975e419f133d66284ab3b
+    layerID: 302
+    mosaicPosition: {x: 4, y: 100}
+  - name: Ela real_dying8
+    spriteName: Ela real_dying8
+    isGroup: 0
+    parentIndex: 42
+    spriteID: ad7985a23e5b4a644a5f0f4597780cea
+    layerID: 301
+    mosaicPosition: {x: 4, y: 158}
+  - name: Ela real_dying7
+    spriteName: Ela real_dying7
+    isGroup: 0
+    parentIndex: 42
+    spriteID: a60ea7b48775d344d84a14c25da52b94
+    layerID: 300
+    mosaicPosition: {x: 4, y: 216}
+  - name: Ela real_dying6
+    spriteName: Ela real_dying6
+    isGroup: 0
+    parentIndex: 42
+    spriteID: f46924958ff0bb340b6f3583c8bf4ce2
+    layerID: 319
+    mosaicPosition: {x: 4, y: 274}
+  - name: Ela real_dying5
+    spriteName: Ela real_dying5
+    isGroup: 0
+    parentIndex: 42
+    spriteID: d7574fdd4a66c5b46a2e2e195ea96789
+    layerID: 318
+    mosaicPosition: {x: 4, y: 332}
+  - name: Ela real_dying4
+    spriteName: Ela real_dying4
+    isGroup: 0
+    parentIndex: 42
+    spriteID: 8408c089336e49a41a7a0f95d3c7881c
+    layerID: 317
+    mosaicPosition: {x: 4, y: 390}
+  - name: Ela real_dying3
+    spriteName: Ela real_dying3
+    isGroup: 0
+    parentIndex: 42
+    spriteID: 5edd3da6ebd74c5448be45be195c2c42
+    layerID: 287
+    mosaicPosition: {x: 4, y: 448}
+  - name: Ela real_dying2
+    spriteName: Ela real_dying2
+    isGroup: 0
+    parentIndex: 42
+    spriteID: e9c6ef7ab6f47cb47b44f11f19066246
+    layerID: 279
+    mosaicPosition: {x: 43, y: 42}
+  - name: Ela real_dying1
+    spriteName: Ela real_dying1
+    isGroup: 0
+    parentIndex: 42
+    spriteID: a03e3397025cac0428403cdda1813384
+    layerID: 278
+    mosaicPosition: {x: 43, y: 100}
+  - name: Sentindo o vento
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 350
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_windfeel8
+    spriteName: Ela real_windfeel8
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 24deb4ae6c59c834ab40b6e0fbc44831
+    layerID: 349
+    mosaicPosition: {x: 181, y: 112}
+  - name: Ela real_windfeel7
+    spriteName: Ela real_windfeel7
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 6dac67b668e049945836ad60632463f6
+    layerID: 348
+    mosaicPosition: {x: 181, y: 149}
+  - name: Ela real_windfeel6
+    spriteName: Ela real_windfeel6
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 7f8dbf6005ad9774f948ebe1b6dfe1ba
+    layerID: 347
+    mosaicPosition: {x: 181, y: 186}
+  - name: Ela real_windfeel5
+    spriteName: Ela real_windfeel5
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 8841cb81b3774594e88a861eb18c4cf5
+    layerID: 346
+    mosaicPosition: {x: 181, y: 223}
+  - name: Ela real_windfeel4
+    spriteName: Ela real_windfeel4
+    isGroup: 0
+    parentIndex: 53
+    spriteID: d38a6f20c2418e7419cdf9142dd9c98a
+    layerID: 345
+    mosaicPosition: {x: 181, y: 260}
+  - name: Ela real_windfeel3
+    spriteName: Ela real_windfeel3
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 9f786590ab3fcda41a3f3f11f61b87ad
+    layerID: 344
+    mosaicPosition: {x: 181, y: 297}
+  - name: Ela real_windfeel2
+    spriteName: Ela real_windfeel2
+    isGroup: 0
+    parentIndex: 53
+    spriteID: aae3c6b16c4077e4fa2cb2ab01ad5c80
+    layerID: 343
+    mosaicPosition: {x: 181, y: 334}
+  - name: Ela real_windfeel1
+    spriteName: Ela real_windfeel1
+    isGroup: 0
+    parentIndex: 53
+    spriteID: 57ee95420e1e25a4cb84905df20c44e3
+    layerID: 342
+    mosaicPosition: {x: 181, y: 371}
+  - name: Parada
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 92
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_Stopped8
+    spriteName: Ela real_Stopped8
+    isGroup: 0
+    parentIndex: 62
+    spriteID: 43092017aeb3c0642a791519051f3419
+    layerID: 83
+    mosaicPosition: {x: 181, y: 444}
+  - name: Ela real_Stopped7
+    spriteName: Ela real_Stopped7
+    isGroup: 0
+    parentIndex: 62
+    spriteID: 04b641a1b5adf22489cf6d4f659b3653
+    layerID: 91
+    mosaicPosition: {x: 181, y: 480}
+  - name: Ela real_Stopped6
+    spriteName: Ela real_Stopped6
+    isGroup: 0
+    parentIndex: 62
+    spriteID: 1424a85ca550df248bf8db2734c87d40
+    layerID: 90
+    mosaicPosition: {x: 213, y: 112}
+  - name: Ela real_Stopped5
+    spriteName: Ela real_Stopped5
+    isGroup: 0
+    parentIndex: 62
+    spriteID: bef7a145ad9c2da4eb2ccbdce6c259aa
+    layerID: 87
+    mosaicPosition: {x: 213, y: 148}
+  - name: Ela real_Stopped4
+    spriteName: Ela real_Stopped4
+    isGroup: 0
+    parentIndex: 62
+    spriteID: 8e71d38cf07f513439ae493832f99e7c
+    layerID: 86
+    mosaicPosition: {x: 213, y: 184}
+  - name: Ela real_Stopped3
+    spriteName: Ela real_Stopped3
+    isGroup: 0
+    parentIndex: 62
+    spriteID: 4a05d495b4494434fba5bc4fe67b9f6a
+    layerID: 82
+    mosaicPosition: {x: 213, y: 220}
+  - name: Ela real_Stopped2
+    spriteName: Ela real_Stopped2
+    isGroup: 0
+    parentIndex: 62
+    spriteID: bf32fe8c4ae175c4c875c45b136ce1b7
+    layerID: 81
+    mosaicPosition: {x: 213, y: 256}
+  - name: Ela real_Stopped1
+    spriteName: Ela real_Stopped1
+    isGroup: 0
+    parentIndex: 62
+    spriteID: 41629a6e8cffe7a40831b52fc0a05e21
+    layerID: 79
+    mosaicPosition: {x: 213, y: 292}
+  - name: "Impacto no ch\xE3o"
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 403
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_impact 2
+    spriteName: Ela real_impact 2
+    isGroup: 0
+    parentIndex: 71
+    spriteID: aea15259af8e1404ab9eb7b61851f3da
+    layerID: 402
+    mosaicPosition: {x: 181, y: 408}
+  - name: Ela real_impact 1
+    spriteName: Ela real_impact 1
+    isGroup: 0
+    parentIndex: 71
+    spriteID: 990f83683a5caa048bef655b774ecc02
+    layerID: 401
+    mosaicPosition: {x: 146, y: 112}
+  - name: Caindo
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 398
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_falling 1
+    spriteName: Ela real_falling 1
+    isGroup: 0
+    parentIndex: 74
+    spriteID: 99752b12928cf754a9b133c2ac732270
+    layerID: 394
+    mosaicPosition: {x: 43, y: 468}
+  - name: Pulando
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 72
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_jumping2
+    spriteName: Ela real_jumping2
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 6cdddb4b37f9b5d42a5df8a818f68b2c
+    layerID: 78
+    mosaicPosition: {x: 213, y: 328}
+  - name: Ela real_jumping1
+    spriteName: Ela real_jumping1
+    isGroup: 0
+    parentIndex: 76
+    spriteID: 5ec8c14d3097c97449ec7a0e0fb84a4b
+    layerID: 71
+    mosaicPosition: {x: 213, y: 365}
+  - name: Correndo
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 39
+    mosaicPosition: {x: 0, y: 0}
+  - name: Ela real_Running10
+    spriteName: Ela real_Running10
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 3e7786d25ae15c440bd24c1c1ea6bf4f
+    layerID: 52
+    mosaicPosition: {x: 146, y: 148}
+  - name: Ela real_Running9
+    spriteName: Ela real_Running9
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 5673045e16a430348a20b1119b20a629
+    layerID: 51
+    mosaicPosition: {x: 146, y: 184}
+  - name: Ela real_Running8
+    spriteName: Ela real_Running8
+    isGroup: 0
+    parentIndex: 79
+    spriteID: cfef5d1a93f2cd442913098435954742
+    layerID: 49
+    mosaicPosition: {x: 146, y: 220}
+  - name: Ela real_Running7
+    spriteName: Ela real_Running7
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 0c987b1c46ccf074eb7e3ed750577e73
+    layerID: 48
+    mosaicPosition: {x: 146, y: 256}
+  - name: Ela real_Running6
+    spriteName: Ela real_Running6
+    isGroup: 0
+    parentIndex: 79
+    spriteID: cff817b507333f84798ce61166124217
+    layerID: 47
+    mosaicPosition: {x: 146, y: 292}
+  - name: Ela real_Running5
+    spriteName: Ela real_Running5
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 0c07b54a3ecc2b94980a616edb739692
+    layerID: 38
+    mosaicPosition: {x: 146, y: 328}
+  - name: Ela real_Running4
+    spriteName: Ela real_Running4
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 52cb8fb46a21bdf4c9221b1cdcdd8c3f
+    layerID: 37
+    mosaicPosition: {x: 146, y: 364}
+  - name: Ela real_Running3
+    spriteName: Ela real_Running3
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 90e1829b2b9b40846ab7030e78023f62
+    layerID: 35
+    mosaicPosition: {x: 146, y: 400}
+  - name: Ela real_Running2
+    spriteName: Ela real_Running2
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 32de19706f168db4cb82747b12fbc2e0
+    layerID: 34
+    mosaicPosition: {x: 146, y: 436}
+  - name: Ela real_Running1
+    spriteName: Ela real_Running1
+    isGroup: 0
+    parentIndex: 79
+    spriteID: 083edffb0c1bbe34a8883321704974d4
+    layerID: 33
+    mosaicPosition: {x: 146, y: 472}
+  sharedRigPSDLayers: []
+  generateGOHierarchy: 0
+  textureAssetName: Game Jam 02 2022_Ela Real_Moviments Texture
+  prefabAssetName: Game Jam 02 2022_Ela Real_Moviments Prefab
+  spriteLibAssetName: Game Jam 02 2022_Ela Real_Moviments Sprite Lib
+  skeletonAssetName: Game Jam 02 2022_Ela Real_Moviments Skeleton
+  secondarySpriteTextures: []

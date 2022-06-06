@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: 32e6929d498dede41b2b9d06040a65a2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: HUD_Warning_thunder10
+    originalName: 
+    pivot: {x: 0.47542572, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 467
+      width: 16
+      height: 223
+    spriteID: 515350535574ab443a1763a3dacff0e2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3, y: 440}
+  - name: HUD_Warning_thunder9
+    originalName: 
+    pivot: {x: 0.43217418, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5
+      width: 131
+      height: 223
+    spriteID: 673b7aa871586c544ad4cd8d0fdb6af3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -88, y: -22}
+  - name: HUD_Warning_thunder8
+    originalName: 
+    pivot: {x: 0.42636055, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 237
+      width: 131
+      height: 223
+    spriteID: 8a2f5b9d09710a646bc952dffac685c0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -88, y: 210}
+  - name: HUD_Warning_thunder7
+    originalName: 
+    pivot: {x: 0.42192006, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 469
+      width: 131
+      height: 223
+    spriteID: 83c2c9dbc4487564e855b6537e976a10
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -88, y: 442}
+  - name: HUD_Warning_thunder6
+    originalName: 
+    pivot: {x: 0.4263606, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 237
+      width: 131
+      height: 222
+    spriteID: 94dab3d950bc9aa4fb1d4192937c44e1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 51, y: 210}
+  - name: HUD_Warning_thunder5
+    originalName: 
+    pivot: {x: 0.42401937, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 700
+      width: 131
+      height: 224
+    spriteID: 7a9263dfc8271f944a65bb77e2dcfc44
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -88, y: 673}
+  - name: HUD_Warning_thunder4
+    originalName: 
+    pivot: {x: 0.42497045, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 5
+      width: 131
+      height: 223
+    spriteID: 20b3ef1cf8e6f244a970237eba1d5920
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 51, y: -22}
+  - name: HUD_Warning_thunder3
+    originalName: 
+    pivot: {x: 0.4637342, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 282
+      y: 210
+      width: 84
+      height: 190
+    spriteID: a0275ccfd38d2b9429dd72fbc0e81af8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 174, y: 183}
+  - name: HUD_Warning_thunder2
+    originalName: 
+    pivot: {x: 0.46438816, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 282
+      y: 4
+      width: 84
+      height: 198
+    spriteID: f396fb0dcff04be49a07f5dede26c85c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 174, y: -23}
+  - name: HUD_Warning_thunder1
+    originalName: 
+    pivot: {x: 0.45485923, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 698
+      width: 84
+      height: 208
+    spriteID: f019bf8d9007f3f4c9c6f49ffacea10c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 35, y: 671}
+  rigSpriteImportData:
+  - name: HUD_Warning_thunder10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 467
+      width: 83
+      height: 223
+    spriteID: 44be7e075075e6e4798f8410570f3946
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3, y: 440}
+  - name: HUD_Warning_thunder9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 131
+      height: 224
+    spriteID: 77f45de4a39c72b46b3c90e4d394e5af
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -88, y: -22}
+  - name: HUD_Warning_thunder8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 236
+      width: 131
+      height: 224
+    spriteID: be6518b6ffa5d7242b997cc77e1d3212
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -88, y: 210}
+  - name: HUD_Warning_thunder7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 468
+      width: 131
+      height: 224
+    spriteID: a351c8c2d653593478141265a9cba59a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -88, y: 442}
+  - name: HUD_Warning_thunder6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 236
+      width: 131
+      height: 223
+    spriteID: ab132b741c57a2d40bcf1ec8f9f754ff
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 51, y: 210}
+  - name: HUD_Warning_thunder5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 700
+      width: 131
+      height: 224
+    spriteID: 2092c3b520b659248aa2b68bd9522783
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -88, y: 673}
+  - name: HUD_Warning_thunder4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 4
+      width: 131
+      height: 224
+    spriteID: da452b83a593dc84f9b3d66c1c02fc5e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 51, y: -22}
+  - name: HUD_Warning_thunder3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 282
+      y: 210
+      width: 84
+      height: 190
+    spriteID: 424b78fa812d0514f9ebf7f8e9d36a11
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 174, y: 183}
+  - name: HUD_Warning_thunder2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 282
+      y: 4
+      width: 84
+      height: 198
+    spriteID: 72ea0f4cd1b2df44bb99e4e54c4eb8fb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 174, y: -23}
+  - name: HUD_Warning_thunder1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 698
+      width: 84
+      height: 208
+    spriteID: 98e9ca2887075da408b6f23240776848
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 35, y: 671}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 512
+  importedTextureHeight: 1024
+  documentSize: {x: 300, y: 276}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 512
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Warning
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 81
+    mosaicPosition: {x: 0, y: 0}
+  - name: HUD_Warning_thunder10
+    spriteName: HUD_Warning_thunder10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 515350535574ab443a1763a3dacff0e2
+    layerID: 88
+    mosaicPosition: {x: 143, y: 467}
+  - name: HUD_Warning_thunder9
+    spriteName: HUD_Warning_thunder9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 673b7aa871586c544ad4cd8d0fdb6af3
+    layerID: 92
+    mosaicPosition: {x: 4, y: 4}
+  - name: HUD_Warning_thunder8
+    spriteName: HUD_Warning_thunder8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8a2f5b9d09710a646bc952dffac685c0
+    layerID: 91
+    mosaicPosition: {x: 4, y: 236}
+  - name: HUD_Warning_thunder7
+    spriteName: HUD_Warning_thunder7
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 83c2c9dbc4487564e855b6537e976a10
+    layerID: 87
+    mosaicPosition: {x: 4, y: 468}
+  - name: HUD_Warning_thunder6
+    spriteName: HUD_Warning_thunder6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 94dab3d950bc9aa4fb1d4192937c44e1
+    layerID: 86
+    mosaicPosition: {x: 143, y: 236}
+  - name: HUD_Warning_thunder5
+    spriteName: HUD_Warning_thunder5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7a9263dfc8271f944a65bb77e2dcfc44
+    layerID: 75
+    mosaicPosition: {x: 4, y: 700}
+  - name: HUD_Warning_thunder4
+    spriteName: HUD_Warning_thunder4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 20b3ef1cf8e6f244a970237eba1d5920
+    layerID: 84
+    mosaicPosition: {x: 143, y: 4}
+  - name: HUD_Warning_thunder3
+    spriteName: HUD_Warning_thunder3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a0275ccfd38d2b9429dd72fbc0e81af8
+    layerID: 73
+    mosaicPosition: {x: 282, y: 210}
+  - name: HUD_Warning_thunder2
+    spriteName: HUD_Warning_thunder2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f396fb0dcff04be49a07f5dede26c85c
+    layerID: 72
+    mosaicPosition: {x: 282, y: 4}
+  - name: HUD_Warning_thunder1
+    spriteName: HUD_Warning_thunder1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f019bf8d9007f3f4c9c6f49ffacea10c
+    layerID: 71
+    mosaicPosition: {x: 143, y: 698}
+  rigPSDLayers:
+  - name: Warning
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 81
+    mosaicPosition: {x: 0, y: 0}
+  - name: HUD_Warning_thunder10
+    spriteName: HUD_Warning_thunder10
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 44be7e075075e6e4798f8410570f3946
+    layerID: 88
+    mosaicPosition: {x: 143, y: 467}
+  - name: HUD_Warning_thunder9
+    spriteName: HUD_Warning_thunder9
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 77f45de4a39c72b46b3c90e4d394e5af
+    layerID: 92
+    mosaicPosition: {x: 4, y: 4}
+  - name: HUD_Warning_thunder8
+    spriteName: HUD_Warning_thunder8
+    isGroup: 0
+    parentIndex: 0
+    spriteID: be6518b6ffa5d7242b997cc77e1d3212
+    layerID: 91
+    mosaicPosition: {x: 4, y: 236}
+  - name: HUD_Warning_thunder7
+    spriteName: HUD_Warning_thunder7
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a351c8c2d653593478141265a9cba59a
+    layerID: 87
+    mosaicPosition: {x: 4, y: 468}
+  - name: HUD_Warning_thunder6
+    spriteName: HUD_Warning_thunder6
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ab132b741c57a2d40bcf1ec8f9f754ff
+    layerID: 86
+    mosaicPosition: {x: 143, y: 236}
+  - name: HUD_Warning_thunder5
+    spriteName: HUD_Warning_thunder5
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2092c3b520b659248aa2b68bd9522783
+    layerID: 75
+    mosaicPosition: {x: 4, y: 700}
+  - name: HUD_Warning_thunder4
+    spriteName: HUD_Warning_thunder4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: da452b83a593dc84f9b3d66c1c02fc5e
+    layerID: 84
+    mosaicPosition: {x: 143, y: 4}
+  - name: HUD_Warning_thunder3
+    spriteName: HUD_Warning_thunder3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 424b78fa812d0514f9ebf7f8e9d36a11
+    layerID: 73
+    mosaicPosition: {x: 282, y: 210}
+  - name: HUD_Warning_thunder2
+    spriteName: HUD_Warning_thunder2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 72ea0f4cd1b2df44bb99e4e54c4eb8fb
+    layerID: 72
+    mosaicPosition: {x: 282, y: 4}
+  - name: HUD_Warning_thunder1
+    spriteName: HUD_Warning_thunder1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 98e9ca2887075da408b6f23240776848
+    layerID: 71
+    mosaicPosition: {x: 143, y: 698}
+  sharedRigPSDLayers: []
+  generateGOHierarchy: 0
+  textureAssetName: Game Jam 02 2022 _Map_warning_thunder Texture
+  prefabAssetName: Game Jam 02 2022 _Map_warning_thunder Prefab
+  spriteLibAssetName: Game Jam 02 2022 _Map_warning_thunder Sprite Lib
+  skeletonAssetName: Game Jam 02 2022 _Map_warning_thunder Skeleton
+  secondarySpriteTextures: []
