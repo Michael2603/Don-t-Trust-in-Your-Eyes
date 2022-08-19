@@ -25,6 +25,7 @@ ScriptedImporter:
     streamingMipmaps: 1
     streamingMipmapsPriority: 0
     vTOnly: 0
+    ignoreMasterTextureLimit: 0
     nPOTScale: 1
     sRGBTexture: 1
     spriteMode: 2
@@ -79,7 +80,6 @@ ScriptedImporter:
       width: 0
       height: 0
     spriteID: 
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -90,116 +90,6 @@ ScriptedImporter:
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
   mosaicSpriteImportData:
-  - name: EXIT off
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 375
-      y: 3444
-      width: 132
-      height: 40
-    spriteID: ba1fd2eb98f35cf47bf35fed92eeb868
-    internalID: 0
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -508, y: 3142}
-  - name: START off
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 665
-      y: 3444
-      width: 142
-      height: 30
-    spriteID: f2fccb655223774449d2222fa90a11a8
-    internalID: 0
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -217, y: 2709}
-  - name: Background_Menu
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 2180
-      width: 1920
-      height: 1080
-    spriteID: 97691d62492ec70428029bb65764d761
-    internalID: 0
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 4, y: 2180}
-  - name: START ON
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 515
-      y: 3444
-      width: 142
-      height: 31
-    spriteID: 5646f2e65f29bf6418fa0909f31e7f65
-    internalID: 0
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -367, y: 2709}
-  - name: EXIT ON
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    rect:
-      serializedVersion: 2
-      x: 235
-      y: 3444
-      width: 132
-      height: 39
-    spriteID: 7bcf61b67c110e84ca451aac9b0fdf95
-    internalID: 0
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -648, y: 3142}
   - name: 'Menu '
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -212,7 +102,6 @@ ScriptedImporter:
       width: 310
       height: 69
     spriteID: 94420faad079c5040a4b9543119c6abd
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -234,7 +123,6 @@ ScriptedImporter:
       width: 1701
       height: 168
     spriteID: 512f8b7c2249eb540a21d41c2dc6d7a2
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -256,7 +144,6 @@ ScriptedImporter:
       width: 1920
       height: 1080
     spriteID: 46e2acd958690344395482d0e26f9bcd
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -278,7 +165,6 @@ ScriptedImporter:
       width: 223
       height: 69
     spriteID: d35d88fd770393b41bb5662760b58a88
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -300,7 +186,6 @@ ScriptedImporter:
       width: 310
       height: 69
     spriteID: 98dbf2ea36539774d8b0b831e13db820
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -322,7 +207,6 @@ ScriptedImporter:
       width: 1920
       height: 1080
     spriteID: bb373ada13393244091331eab7c9ec41
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -332,6 +216,111 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 4, y: 1092}
+  - name: START ON
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 515
+      y: 3444
+      width: 142
+      height: 31
+    spriteID: 5646f2e65f29bf6418fa0909f31e7f65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -367, y: 2709}
+  - name: EXIT ON
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 235
+      y: 3444
+      width: 132
+      height: 39
+    spriteID: 7bcf61b67c110e84ca451aac9b0fdf95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -648, y: 3142}
+  - name: EXIT off
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 375
+      y: 3444
+      width: 132
+      height: 40
+    spriteID: ba1fd2eb98f35cf47bf35fed92eeb868
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -508, y: 3142}
+  - name: START off
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 665
+      y: 3444
+      width: 142
+      height: 30
+    spriteID: f2fccb655223774449d2222fa90a11a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -217, y: 2709}
+  - name: Background_Menu
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2180
+      width: 1920
+      height: 1080
+    spriteID: 97691d62492ec70428029bb65764d761
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2180}
   rigSpriteImportData:
   - name: 'Menu '
     originalName: 
@@ -345,7 +334,6 @@ ScriptedImporter:
       width: 310
       height: 69
     spriteID: 6497768a83dc1f14e945b5052fbd4096
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -367,7 +355,6 @@ ScriptedImporter:
       width: 1701
       height: 168
     spriteID: 62140cefcbdcb81428d593febdf3fc32
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -389,7 +376,6 @@ ScriptedImporter:
       width: 1920
       height: 1080
     spriteID: e6072f02179991840846fb57f419206a
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -411,7 +397,6 @@ ScriptedImporter:
       width: 223
       height: 69
     spriteID: 2fd3a42e1bcc1034aa58d477c98c0d3b
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -433,7 +418,6 @@ ScriptedImporter:
       width: 310
       height: 69
     spriteID: d5a52628638d14f4183fe3941bee75d7
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -455,7 +439,6 @@ ScriptedImporter:
       width: 132
       height: 40
     spriteID: 65ff16aa8fa44e44782f5993409d0397
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -477,7 +460,6 @@ ScriptedImporter:
       width: 142
       height: 30
     spriteID: 767f86f7b8c77a2449df7d79f06ccc95
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -499,7 +481,6 @@ ScriptedImporter:
       width: 1920
       height: 1080
     spriteID: 75c47063657d3854b8e53a279ebbaccf
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -550,16 +531,13 @@ ScriptedImporter:
   documentPivot: {x: 0, y: 0}
   documentAlignment: 7
   importHiddenLayers: 0
-  importedTextureWidth: 2048
-  importedTextureHeight: 4096
-  documentSize: {x: 1920, y: 1080}
+  layerMappingOption: 2
+  generatePhysicsShape: 0
   paperDollMode: 0
   keepDupilcateSpriteName: 1
   skeletonAssetReferenceID: 
   spriteCategoryList:
     categories: []
-  textureActualWidth: 2048
-  textureActualHeight: 4096
   spritePackingTag: 
   resliceFromLayer: 0
   mosaicPSDLayers:
@@ -570,6 +548,9 @@ ScriptedImporter:
     spriteID: 94420faad079c5040a4b9543119c6abd
     layerID: 20
     mosaicPosition: {x: 1713, y: 3268}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Camada 1
     spriteName: Camada 1
     isGroup: 0
@@ -577,6 +558,9 @@ ScriptedImporter:
     spriteID: 512f8b7c2249eb540a21d41c2dc6d7a2
     layerID: 19
     mosaicPosition: {x: 4, y: 3268}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Background_you win_Restart
     spriteName: Background_you win_Restart
     isGroup: 0
@@ -584,6 +568,9 @@ ScriptedImporter:
     spriteID: 46e2acd958690344395482d0e26f9bcd
     layerID: 18
     mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Exit
     spriteName: Exit
     isGroup: 0
@@ -591,6 +578,9 @@ ScriptedImporter:
     spriteID: d35d88fd770393b41bb5662760b58a88
     layerID: 14
     mosaicPosition: {x: 4, y: 3444}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Menu
     spriteName: Menu
     isGroup: 0
@@ -598,6 +588,9 @@ ScriptedImporter:
     spriteID: 98dbf2ea36539774d8b0b831e13db820
     layerID: 13
     mosaicPosition: {x: 1713, y: 3345}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Background_You Lose_Restart
     spriteName: Background_You Lose_Restart
     isGroup: 0
@@ -605,6 +598,9 @@ ScriptedImporter:
     spriteID: bb373ada13393244091331eab7c9ec41
     layerID: 12
     mosaicPosition: {x: 4, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: START ON
     spriteName: START ON
     isGroup: 0
@@ -612,6 +608,9 @@ ScriptedImporter:
     spriteID: 5646f2e65f29bf6418fa0909f31e7f65
     layerID: 9
     mosaicPosition: {x: 515, y: 3444}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: EXIT ON
     spriteName: EXIT ON
     isGroup: 0
@@ -619,6 +618,9 @@ ScriptedImporter:
     spriteID: 7bcf61b67c110e84ca451aac9b0fdf95
     layerID: 7
     mosaicPosition: {x: 235, y: 3444}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: EXIT off
     spriteName: EXIT off
     isGroup: 0
@@ -626,6 +628,9 @@ ScriptedImporter:
     spriteID: ba1fd2eb98f35cf47bf35fed92eeb868
     layerID: 11
     mosaicPosition: {x: 375, y: 3444}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: START off
     spriteName: START off
     isGroup: 0
@@ -633,6 +638,9 @@ ScriptedImporter:
     spriteID: f2fccb655223774449d2222fa90a11a8
     layerID: 4
     mosaicPosition: {x: 665, y: 3444}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Background_Menu
     spriteName: Background_Menu
     isGroup: 0
@@ -640,6 +648,9 @@ ScriptedImporter:
     spriteID: 97691d62492ec70428029bb65764d761
     layerID: 2
     mosaicPosition: {x: 4, y: 2180}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   rigPSDLayers:
   - name: 'Menu '
     spriteName: 'Menu '
@@ -648,6 +659,9 @@ ScriptedImporter:
     spriteID: 6497768a83dc1f14e945b5052fbd4096
     layerID: 20
     mosaicPosition: {x: 1713, y: 2180}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: Camada 1
     spriteName: Camada 1
     isGroup: 0
@@ -655,6 +669,9 @@ ScriptedImporter:
     spriteID: 62140cefcbdcb81428d593febdf3fc32
     layerID: 19
     mosaicPosition: {x: 4, y: 2180}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: Background_you win_Restart
     spriteName: Background_you win_Restart
     isGroup: 0
@@ -662,6 +679,9 @@ ScriptedImporter:
     spriteID: e6072f02179991840846fb57f419206a
     layerID: 18
     mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: Exit
     spriteName: Exit
     isGroup: 0
@@ -669,6 +689,9 @@ ScriptedImporter:
     spriteID: 2fd3a42e1bcc1034aa58d477c98c0d3b
     layerID: 14
     mosaicPosition: {x: 4, y: 2356}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: Menu
     spriteName: Menu
     isGroup: 0
@@ -676,6 +699,9 @@ ScriptedImporter:
     spriteID: d5a52628638d14f4183fe3941bee75d7
     layerID: 13
     mosaicPosition: {x: 1713, y: 2257}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: EXIT off
     spriteName: EXIT off
     isGroup: 0
@@ -683,6 +709,9 @@ ScriptedImporter:
     spriteID: 65ff16aa8fa44e44782f5993409d0397
     layerID: 11
     mosaicPosition: {x: 235, y: 2356}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: START off
     spriteName: START off
     isGroup: 0
@@ -690,6 +719,9 @@ ScriptedImporter:
     spriteID: 767f86f7b8c77a2449df7d79f06ccc95
     layerID: 4
     mosaicPosition: {x: 375, y: 2356}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: Background_Menu
     spriteName: Background_Menu
     isGroup: 0
@@ -697,7 +729,11 @@ ScriptedImporter:
     spriteID: 75c47063657d3854b8e53a279ebbaccf
     layerID: 2
     mosaicPosition: {x: 4, y: 1092}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
   generateGOHierarchy: 0
   textureAssetName: Game Jam 02 2022_HUD_Menu Texture
   prefabAssetName: Game Jam 02 2022_HUD_Menu Prefab

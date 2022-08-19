@@ -25,6 +25,7 @@ ScriptedImporter:
     streamingMipmaps: 1
     streamingMipmapsPriority: 0
     vTOnly: 0
+    ignoreMasterTextureLimit: 0
     nPOTScale: 1
     sRGBTexture: 1
     spriteMode: 2
@@ -79,7 +80,6 @@ ScriptedImporter:
       width: 0
       height: 0
     spriteID: 
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -102,7 +102,6 @@ ScriptedImporter:
       width: 16
       height: 223
     spriteID: 515350535574ab443a1763a3dacff0e2
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -124,7 +123,6 @@ ScriptedImporter:
       width: 131
       height: 223
     spriteID: 673b7aa871586c544ad4cd8d0fdb6af3
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -146,7 +144,6 @@ ScriptedImporter:
       width: 131
       height: 223
     spriteID: 8a2f5b9d09710a646bc952dffac685c0
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -168,7 +165,6 @@ ScriptedImporter:
       width: 131
       height: 223
     spriteID: 83c2c9dbc4487564e855b6537e976a10
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -190,7 +186,6 @@ ScriptedImporter:
       width: 131
       height: 222
     spriteID: 94dab3d950bc9aa4fb1d4192937c44e1
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -212,7 +207,6 @@ ScriptedImporter:
       width: 131
       height: 224
     spriteID: 7a9263dfc8271f944a65bb77e2dcfc44
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -234,7 +228,6 @@ ScriptedImporter:
       width: 131
       height: 223
     spriteID: 20b3ef1cf8e6f244a970237eba1d5920
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -256,7 +249,6 @@ ScriptedImporter:
       width: 84
       height: 190
     spriteID: a0275ccfd38d2b9429dd72fbc0e81af8
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -278,7 +270,6 @@ ScriptedImporter:
       width: 84
       height: 198
     spriteID: f396fb0dcff04be49a07f5dede26c85c
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -300,7 +291,6 @@ ScriptedImporter:
       width: 84
       height: 208
     spriteID: f019bf8d9007f3f4c9c6f49ffacea10c
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -323,7 +313,6 @@ ScriptedImporter:
       width: 83
       height: 223
     spriteID: 44be7e075075e6e4798f8410570f3946
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -345,7 +334,6 @@ ScriptedImporter:
       width: 131
       height: 224
     spriteID: 77f45de4a39c72b46b3c90e4d394e5af
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -367,7 +355,6 @@ ScriptedImporter:
       width: 131
       height: 224
     spriteID: be6518b6ffa5d7242b997cc77e1d3212
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -389,7 +376,6 @@ ScriptedImporter:
       width: 131
       height: 224
     spriteID: a351c8c2d653593478141265a9cba59a
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -411,7 +397,6 @@ ScriptedImporter:
       width: 131
       height: 223
     spriteID: ab132b741c57a2d40bcf1ec8f9f754ff
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -433,7 +418,6 @@ ScriptedImporter:
       width: 131
       height: 224
     spriteID: 2092c3b520b659248aa2b68bd9522783
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -455,7 +439,6 @@ ScriptedImporter:
       width: 131
       height: 224
     spriteID: da452b83a593dc84f9b3d66c1c02fc5e
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -477,7 +460,6 @@ ScriptedImporter:
       width: 84
       height: 190
     spriteID: 424b78fa812d0514f9ebf7f8e9d36a11
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -499,7 +481,6 @@ ScriptedImporter:
       width: 84
       height: 198
     spriteID: 72ea0f4cd1b2df44bb99e4e54c4eb8fb
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -521,7 +502,6 @@ ScriptedImporter:
       width: 84
       height: 208
     spriteID: 98e9ca2887075da408b6f23240776848
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -572,16 +552,13 @@ ScriptedImporter:
   documentPivot: {x: 0, y: 0}
   documentAlignment: 7
   importHiddenLayers: 0
-  importedTextureWidth: 512
-  importedTextureHeight: 1024
-  documentSize: {x: 300, y: 276}
+  layerMappingOption: 2
+  generatePhysicsShape: 0
   paperDollMode: 0
   keepDupilcateSpriteName: 1
   skeletonAssetReferenceID: 
   spriteCategoryList:
     categories: []
-  textureActualWidth: 512
-  textureActualHeight: 1024
   spritePackingTag: 
   resliceFromLayer: 0
   mosaicPSDLayers:
@@ -589,9 +566,12 @@ ScriptedImporter:
     spriteName: 
     isGroup: 1
     parentIndex: -1
-    spriteID: 00000000000000000000000000000000
+    spriteID: a72fd717d989d8b41bd27cb858bd3f5a
     layerID: 81
     mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
   - name: HUD_Warning_thunder10
     spriteName: HUD_Warning_thunder10
     isGroup: 0
@@ -599,6 +579,9 @@ ScriptedImporter:
     spriteID: 515350535574ab443a1763a3dacff0e2
     layerID: 88
     mosaicPosition: {x: 143, y: 467}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: HUD_Warning_thunder9
     spriteName: HUD_Warning_thunder9
     isGroup: 0
@@ -606,6 +589,9 @@ ScriptedImporter:
     spriteID: 673b7aa871586c544ad4cd8d0fdb6af3
     layerID: 92
     mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: HUD_Warning_thunder8
     spriteName: HUD_Warning_thunder8
     isGroup: 0
@@ -613,6 +599,9 @@ ScriptedImporter:
     spriteID: 8a2f5b9d09710a646bc952dffac685c0
     layerID: 91
     mosaicPosition: {x: 4, y: 236}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: HUD_Warning_thunder7
     spriteName: HUD_Warning_thunder7
     isGroup: 0
@@ -620,6 +609,9 @@ ScriptedImporter:
     spriteID: 83c2c9dbc4487564e855b6537e976a10
     layerID: 87
     mosaicPosition: {x: 4, y: 468}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: HUD_Warning_thunder6
     spriteName: HUD_Warning_thunder6
     isGroup: 0
@@ -627,6 +619,9 @@ ScriptedImporter:
     spriteID: 94dab3d950bc9aa4fb1d4192937c44e1
     layerID: 86
     mosaicPosition: {x: 143, y: 236}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: HUD_Warning_thunder5
     spriteName: HUD_Warning_thunder5
     isGroup: 0
@@ -634,6 +629,9 @@ ScriptedImporter:
     spriteID: 7a9263dfc8271f944a65bb77e2dcfc44
     layerID: 75
     mosaicPosition: {x: 4, y: 700}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: HUD_Warning_thunder4
     spriteName: HUD_Warning_thunder4
     isGroup: 0
@@ -641,6 +639,9 @@ ScriptedImporter:
     spriteID: 20b3ef1cf8e6f244a970237eba1d5920
     layerID: 84
     mosaicPosition: {x: 143, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: HUD_Warning_thunder3
     spriteName: HUD_Warning_thunder3
     isGroup: 0
@@ -648,6 +649,9 @@ ScriptedImporter:
     spriteID: a0275ccfd38d2b9429dd72fbc0e81af8
     layerID: 73
     mosaicPosition: {x: 282, y: 210}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: HUD_Warning_thunder2
     spriteName: HUD_Warning_thunder2
     isGroup: 0
@@ -655,6 +659,9 @@ ScriptedImporter:
     spriteID: f396fb0dcff04be49a07f5dede26c85c
     layerID: 72
     mosaicPosition: {x: 282, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: HUD_Warning_thunder1
     spriteName: HUD_Warning_thunder1
     isGroup: 0
@@ -662,6 +669,9 @@ ScriptedImporter:
     spriteID: f019bf8d9007f3f4c9c6f49ffacea10c
     layerID: 71
     mosaicPosition: {x: 143, y: 698}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   rigPSDLayers:
   - name: Warning
     spriteName: 
@@ -670,6 +680,9 @@ ScriptedImporter:
     spriteID: 
     layerID: 81
     mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: HUD_Warning_thunder10
     spriteName: HUD_Warning_thunder10
     isGroup: 0
@@ -677,6 +690,9 @@ ScriptedImporter:
     spriteID: 44be7e075075e6e4798f8410570f3946
     layerID: 88
     mosaicPosition: {x: 143, y: 467}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: HUD_Warning_thunder9
     spriteName: HUD_Warning_thunder9
     isGroup: 0
@@ -684,6 +700,9 @@ ScriptedImporter:
     spriteID: 77f45de4a39c72b46b3c90e4d394e5af
     layerID: 92
     mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: HUD_Warning_thunder8
     spriteName: HUD_Warning_thunder8
     isGroup: 0
@@ -691,6 +710,9 @@ ScriptedImporter:
     spriteID: be6518b6ffa5d7242b997cc77e1d3212
     layerID: 91
     mosaicPosition: {x: 4, y: 236}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: HUD_Warning_thunder7
     spriteName: HUD_Warning_thunder7
     isGroup: 0
@@ -698,6 +720,9 @@ ScriptedImporter:
     spriteID: a351c8c2d653593478141265a9cba59a
     layerID: 87
     mosaicPosition: {x: 4, y: 468}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: HUD_Warning_thunder6
     spriteName: HUD_Warning_thunder6
     isGroup: 0
@@ -705,6 +730,9 @@ ScriptedImporter:
     spriteID: ab132b741c57a2d40bcf1ec8f9f754ff
     layerID: 86
     mosaicPosition: {x: 143, y: 236}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: HUD_Warning_thunder5
     spriteName: HUD_Warning_thunder5
     isGroup: 0
@@ -712,6 +740,9 @@ ScriptedImporter:
     spriteID: 2092c3b520b659248aa2b68bd9522783
     layerID: 75
     mosaicPosition: {x: 4, y: 700}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: HUD_Warning_thunder4
     spriteName: HUD_Warning_thunder4
     isGroup: 0
@@ -719,6 +750,9 @@ ScriptedImporter:
     spriteID: da452b83a593dc84f9b3d66c1c02fc5e
     layerID: 84
     mosaicPosition: {x: 143, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: HUD_Warning_thunder3
     spriteName: HUD_Warning_thunder3
     isGroup: 0
@@ -726,6 +760,9 @@ ScriptedImporter:
     spriteID: 424b78fa812d0514f9ebf7f8e9d36a11
     layerID: 73
     mosaicPosition: {x: 282, y: 210}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: HUD_Warning_thunder2
     spriteName: HUD_Warning_thunder2
     isGroup: 0
@@ -733,6 +770,9 @@ ScriptedImporter:
     spriteID: 72ea0f4cd1b2df44bb99e4e54c4eb8fb
     layerID: 72
     mosaicPosition: {x: 282, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: HUD_Warning_thunder1
     spriteName: HUD_Warning_thunder1
     isGroup: 0
@@ -740,7 +780,11 @@ ScriptedImporter:
     spriteID: 98e9ca2887075da408b6f23240776848
     layerID: 71
     mosaicPosition: {x: 143, y: 698}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
   generateGOHierarchy: 0
   textureAssetName: Game Jam 02 2022 _Map_warning_thunder Texture
   prefabAssetName: Game Jam 02 2022 _Map_warning_thunder Prefab

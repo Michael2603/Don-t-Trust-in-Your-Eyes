@@ -25,6 +25,7 @@ ScriptedImporter:
     streamingMipmaps: 1
     streamingMipmapsPriority: 0
     vTOnly: 0
+    ignoreMasterTextureLimit: 0
     nPOTScale: 1
     sRGBTexture: 1
     spriteMode: 2
@@ -79,7 +80,6 @@ ScriptedImporter:
       width: 0
       height: 0
     spriteID: 
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -102,7 +102,6 @@ ScriptedImporter:
       width: 12
       height: 5
     spriteID: bb133b5914ca1df4db3638ab93a96289
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -124,7 +123,6 @@ ScriptedImporter:
       width: 12
       height: 9
     spriteID: 0429c76b2936b944983e951011fcb823
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -146,7 +144,6 @@ ScriptedImporter:
       width: 12
       height: 11
     spriteID: 2fe773aa6805e794dab3fa89a6182de0
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -168,7 +165,6 @@ ScriptedImporter:
       width: 12
       height: 11
     spriteID: 8f75df75848a47b49b78cd7f98d6a6b6
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -190,7 +186,6 @@ ScriptedImporter:
       width: 12
       height: 9
     spriteID: a53ec9926e21f774089d48bc791a4b93
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -212,7 +207,6 @@ ScriptedImporter:
       width: 12
       height: 9
     spriteID: 0f903eff2df2149408570259471498e2
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -234,7 +228,6 @@ ScriptedImporter:
       width: 12
       height: 9
     spriteID: 14569af5859bf3a488ff586472e83340
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -256,7 +249,6 @@ ScriptedImporter:
       width: 12
       height: 9
     spriteID: ff56fd691d8aaa54f81b327cb560f1af
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -278,7 +270,6 @@ ScriptedImporter:
       width: 12
       height: 9
     spriteID: 458dcc0cc35ea3d4bae98206c2c468d9
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -300,7 +291,6 @@ ScriptedImporter:
       width: 12
       height: 9
     spriteID: 9a59b8eec56435b45a424fa065c8ebbc
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -322,7 +312,6 @@ ScriptedImporter:
       width: 12
       height: 9
     spriteID: 0d90df824be23cc4c937c39e375c9442
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -344,7 +333,6 @@ ScriptedImporter:
       width: 12
       height: 9
     spriteID: ddc01cc7b64055f4d8d2d87448951a7d
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -366,7 +354,6 @@ ScriptedImporter:
       width: 12
       height: 9
     spriteID: 726868aef47994645b3367527caabef9
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -388,7 +375,6 @@ ScriptedImporter:
       width: 12
       height: 9
     spriteID: 9fd4d73efee6b144cb1d16e492be938f
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -410,7 +396,6 @@ ScriptedImporter:
       width: 12
       height: 7
     spriteID: c2f2788a2026b334a8162fa31349fe9e
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -432,7 +417,6 @@ ScriptedImporter:
       width: 12
       height: 7
     spriteID: 13f11fff7bde72744839f5da3bc37bcd
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -454,7 +438,6 @@ ScriptedImporter:
       width: 12
       height: 7
     spriteID: 33b5f2d69931a534796afb9479f50f33
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -476,7 +459,6 @@ ScriptedImporter:
       width: 12
       height: 7
     spriteID: c0ff46b928dd8ce4b90c2c7b2198d09d
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -498,7 +480,6 @@ ScriptedImporter:
       width: 12
       height: 7
     spriteID: c9efb0bfa00d13d4a8a68470e3db12d3
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -520,7 +501,6 @@ ScriptedImporter:
       width: 12
       height: 7
     spriteID: 236d37ef0aef243469631032c27d645b
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -542,7 +522,6 @@ ScriptedImporter:
       width: 12
       height: 7
     spriteID: afa19d08a832d5b458fa9771cb1520b4
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -564,7 +543,6 @@ ScriptedImporter:
       width: 12
       height: 7
     spriteID: a17da21e844350e4b8ba9ffed4b68351
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -587,7 +565,6 @@ ScriptedImporter:
       width: 12
       height: 5
     spriteID: 828cc7757cb4c3d40b513466225aa9b0
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -609,7 +586,6 @@ ScriptedImporter:
       width: 12
       height: 9
     spriteID: cd6ca2651f4d700429ac84ef5f497fae
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -631,7 +607,6 @@ ScriptedImporter:
       width: 12
       height: 11
     spriteID: 9a0c514ae66ae654ca7bcfb82b503f30
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -653,7 +628,6 @@ ScriptedImporter:
       width: 12
       height: 11
     spriteID: 4deadde5ca86d114d85f6b1b1f5916b4
-    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -704,16 +678,13 @@ ScriptedImporter:
   documentPivot: {x: 0, y: 0}
   documentAlignment: 7
   importHiddenLayers: 0
-  importedTextureWidth: 64
-  importedTextureHeight: 128
-  documentSize: {x: 32, y: 32}
+  layerMappingOption: 2
+  generatePhysicsShape: 0
   paperDollMode: 0
   keepDupilcateSpriteName: 1
   skeletonAssetReferenceID: 
   spriteCategoryList:
     categories: []
-  textureActualWidth: 64
-  textureActualHeight: 128
   spritePackingTag: 
   resliceFromLayer: 0
   mosaicPSDLayers:
@@ -721,9 +692,12 @@ ScriptedImporter:
     spriteName: 
     isGroup: 1
     parentIndex: -1
-    spriteID: 00000000000000000000000000000000
+    spriteID: d475c4ecb6fab9e4a8a9b4dbb5070c5d
     layerID: 61
     mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
   - name: Ressonance_falling2
     spriteName: Ressonance_falling2
     isGroup: 0
@@ -731,6 +705,9 @@ ScriptedImporter:
     spriteID: bb133b5914ca1df4db3638ab93a96289
     layerID: 58
     mosaicPosition: {x: 44, y: 109}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_falling1
     spriteName: Ressonance_falling1
     isGroup: 0
@@ -738,13 +715,19 @@ ScriptedImporter:
     spriteID: 0429c76b2936b944983e951011fcb823
     layerID: 57
     mosaicPosition: {x: 4, y: 42}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Pulando
     spriteName: 
     isGroup: 1
     parentIndex: -1
-    spriteID: 00000000000000000000000000000000
+    spriteID: 7770f7c8f5d7bc0479f2e003c5abb2fc
     layerID: 66
     mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
   - name: Ressonance_jumping2
     spriteName: Ressonance_jumping2
     isGroup: 0
@@ -752,6 +735,9 @@ ScriptedImporter:
     spriteID: 2fe773aa6805e794dab3fa89a6182de0
     layerID: 56
     mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_jumping1
     spriteName: Ressonance_jumping1
     isGroup: 0
@@ -759,13 +745,19 @@ ScriptedImporter:
     spriteID: 8f75df75848a47b49b78cd7f98d6a6b6
     layerID: 55
     mosaicPosition: {x: 4, y: 23}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Correndo
     spriteName: 
     isGroup: 1
     parentIndex: -1
-    spriteID: 00000000000000000000000000000000
+    spriteID: 66a8f0c22f72ad745a827cdab068f5ff
     layerID: 43
     mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
   - name: Ressonance_Running10
     spriteName: Ressonance_Running10
     isGroup: 0
@@ -773,6 +765,9 @@ ScriptedImporter:
     spriteID: a53ec9926e21f774089d48bc791a4b93
     layerID: 42
     mosaicPosition: {x: 4, y: 59}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Running9
     spriteName: Ressonance_Running9
     isGroup: 0
@@ -780,6 +775,9 @@ ScriptedImporter:
     spriteID: 0f903eff2df2149408570259471498e2
     layerID: 41
     mosaicPosition: {x: 4, y: 76}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Running8
     spriteName: Ressonance_Running8
     isGroup: 0
@@ -787,6 +785,9 @@ ScriptedImporter:
     spriteID: 14569af5859bf3a488ff586472e83340
     layerID: 40
     mosaicPosition: {x: 4, y: 93}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Running7
     spriteName: Ressonance_Running7
     isGroup: 0
@@ -794,6 +795,9 @@ ScriptedImporter:
     spriteID: ff56fd691d8aaa54f81b327cb560f1af
     layerID: 39
     mosaicPosition: {x: 4, y: 110}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Running6
     spriteName: Ressonance_Running6
     isGroup: 0
@@ -801,6 +805,9 @@ ScriptedImporter:
     spriteID: 458dcc0cc35ea3d4bae98206c2c468d9
     layerID: 38
     mosaicPosition: {x: 24, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Running5
     spriteName: Ressonance_Running5
     isGroup: 0
@@ -808,6 +815,9 @@ ScriptedImporter:
     spriteID: 9a59b8eec56435b45a424fa065c8ebbc
     layerID: 37
     mosaicPosition: {x: 24, y: 21}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Running4
     spriteName: Ressonance_Running4
     isGroup: 0
@@ -815,6 +825,9 @@ ScriptedImporter:
     spriteID: 0d90df824be23cc4c937c39e375c9442
     layerID: 36
     mosaicPosition: {x: 24, y: 38}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Running3
     spriteName: Ressonance_Running3
     isGroup: 0
@@ -822,6 +835,9 @@ ScriptedImporter:
     spriteID: ddc01cc7b64055f4d8d2d87448951a7d
     layerID: 35
     mosaicPosition: {x: 24, y: 55}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Running2
     spriteName: Ressonance_Running2
     isGroup: 0
@@ -829,6 +845,9 @@ ScriptedImporter:
     spriteID: 726868aef47994645b3367527caabef9
     layerID: 34
     mosaicPosition: {x: 24, y: 72}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Running1
     spriteName: Ressonance_Running1
     isGroup: 0
@@ -836,13 +855,19 @@ ScriptedImporter:
     spriteID: 9fd4d73efee6b144cb1d16e492be938f
     layerID: 33
     mosaicPosition: {x: 24, y: 89}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Parada
     spriteName: 
     isGroup: 1
     parentIndex: -1
-    spriteID: 00000000000000000000000000000000
+    spriteID: 3ad379c589302134a86df129fdb4a377
     layerID: 21
     mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
   - name: Ressonance_Stopped8
     spriteName: Ressonance_Stopped8
     isGroup: 0
@@ -850,6 +875,9 @@ ScriptedImporter:
     spriteID: c2f2788a2026b334a8162fa31349fe9e
     layerID: 20
     mosaicPosition: {x: 24, y: 106}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Stopped7
     spriteName: Ressonance_Stopped7
     isGroup: 0
@@ -857,6 +885,9 @@ ScriptedImporter:
     spriteID: 13f11fff7bde72744839f5da3bc37bcd
     layerID: 19
     mosaicPosition: {x: 44, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Stopped6
     spriteName: Ressonance_Stopped6
     isGroup: 0
@@ -864,6 +895,9 @@ ScriptedImporter:
     spriteID: 33b5f2d69931a534796afb9479f50f33
     layerID: 18
     mosaicPosition: {x: 44, y: 19}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Stopped5
     spriteName: Ressonance_Stopped5
     isGroup: 0
@@ -871,6 +905,9 @@ ScriptedImporter:
     spriteID: c0ff46b928dd8ce4b90c2c7b2198d09d
     layerID: 17
     mosaicPosition: {x: 44, y: 34}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Stopped4
     spriteName: Ressonance_Stopped4
     isGroup: 0
@@ -878,6 +915,9 @@ ScriptedImporter:
     spriteID: c9efb0bfa00d13d4a8a68470e3db12d3
     layerID: 16
     mosaicPosition: {x: 44, y: 49}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Stopped3
     spriteName: Ressonance_Stopped3
     isGroup: 0
@@ -885,6 +925,9 @@ ScriptedImporter:
     spriteID: 236d37ef0aef243469631032c27d645b
     layerID: 15
     mosaicPosition: {x: 44, y: 64}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Stopped2
     spriteName: Ressonance_Stopped2
     isGroup: 0
@@ -892,6 +935,9 @@ ScriptedImporter:
     spriteID: afa19d08a832d5b458fa9771cb1520b4
     layerID: 14
     mosaicPosition: {x: 44, y: 79}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   - name: Ressonance_Stopped1
     spriteName: Ressonance_Stopped1
     isGroup: 0
@@ -899,6 +945,9 @@ ScriptedImporter:
     spriteID: a17da21e844350e4b8ba9ffed4b68351
     layerID: 13
     mosaicPosition: {x: 44, y: 94}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
   rigPSDLayers:
   - name: Caindo
     spriteName: 
@@ -907,6 +956,9 @@ ScriptedImporter:
     spriteID: 
     layerID: 61
     mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: Ressonance_falling2
     spriteName: Ressonance_falling2
     isGroup: 0
@@ -914,6 +966,9 @@ ScriptedImporter:
     spriteID: 828cc7757cb4c3d40b513466225aa9b0
     layerID: 58
     mosaicPosition: {x: 4, y: 23}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: Ressonance_falling1
     spriteName: Ressonance_falling1
     isGroup: 0
@@ -921,6 +976,9 @@ ScriptedImporter:
     spriteID: cd6ca2651f4d700429ac84ef5f497fae
     layerID: 57
     mosaicPosition: {x: 44, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: Pulando
     spriteName: 
     isGroup: 1
@@ -928,6 +986,9 @@ ScriptedImporter:
     spriteID: 
     layerID: 66
     mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: Ressonance_jumping2
     spriteName: Ressonance_jumping2
     isGroup: 0
@@ -935,6 +996,9 @@ ScriptedImporter:
     spriteID: 9a0c514ae66ae654ca7bcfb82b503f30
     layerID: 56
     mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   - name: Ressonance_jumping1
     spriteName: Ressonance_jumping1
     isGroup: 0
@@ -942,7 +1006,11 @@ ScriptedImporter:
     spriteID: 4deadde5ca86d114d85f6b1b1f5916b4
     layerID: 55
     mosaicPosition: {x: 24, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
   sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
   generateGOHierarchy: 0
   textureAssetName: Game Jam 02 2022_HUD_ressonance animation Texture
   prefabAssetName: Game Jam 02 2022_HUD_ressonance animation Prefab
